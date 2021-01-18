@@ -1,0 +1,845 @@
+{
+    "Turtwig": {
+        "n": 1,
+        "pre_evol": null
+    },
+    "Grotle": {
+        "n": 2,
+        "pre_evol": {
+            "name": "Turtwig",
+            "info": "Level 18"
+        }
+    },
+    "Torterra": {
+        "n": 3,
+        "pre_evol": {
+            "name": "Grotle",
+            "info": "Level 32"
+        }
+    },
+    "Chimchar": {
+        "n": 4,
+        "pre_evol": null
+    },
+    "Monferno": {
+        "n": 5,
+        "pre_evol": {
+            "name": "Chimchar",
+            "info": "Level 14"
+        }
+    },
+    "Infernape": {
+        "n": 6,
+        "pre_evol": {
+            "name": "Monferno",
+            "info": "Level 36"
+        }
+    },
+    "Piplup": {
+        "n": 7,
+        "pre_evol": null
+    },
+    "Prinplup": {
+        "n": 8,
+        "pre_evol": {
+            "name": "Piplup",
+            "info": "Level 16"
+        }
+    },
+    "Empoleon": {
+        "n": 9,
+        "pre_evol": {
+            "name": "Prinplup",
+            "info": "Level 36"
+        }
+    },
+    "Starly": {
+        "n": 10,
+        "pre_evol": null
+    },
+    "Staravia": {
+        "n": 11,
+        "pre_evol": {
+            "name": "Starly",
+            "info": "Level 14"
+        }
+    },
+    "Staraptor": {
+        "n": 12,
+        "pre_evol": {
+            "name": "Staravia",
+            "info": "Level 34"
+        }
+    },
+    "Bidoof": {
+        "n": 13,
+        "pre_evol": null
+    },
+    "Bibarel": {
+        "n": 14,
+        "pre_evol": {
+            "name": "Bidoof",
+            "info": "Level 15"
+        }
+    },
+    "Kricketot": {
+        "n": 15,
+        "pre_evol": null
+    },
+    "Kricketune": {
+        "n": 16,
+        "pre_evol": {
+            "name": "Kricketot",
+            "info": "Level 10"
+        }
+    },
+    "Shinx": {
+        "n": 17,
+        "pre_evol": null
+    },
+    "Luxio": {
+        "n": 18,
+        "pre_evol": {
+            "name": "Shinx",
+            "info": "Level 15"
+        }
+    },
+    "Luxray": {
+        "n": 19,
+        "pre_evol": {
+            "name": "Luxio",
+            "info": "Level 30"
+        }
+    },
+    "Abra": {
+        "n": 20,
+        "pre_evol": null
+    },
+    "Kadabra": {
+        "n": 21,
+        "pre_evol": {
+            "name": "Abra",
+            "info": "Level 16"
+        }
+    },
+    "Alakazam": {
+        "n": 22,
+        "pre_evol": {
+            "name": "Kadabra",
+            "info": "Trade"
+        }
+    },
+    "Magikarp": {
+        "n": 23,
+        "pre_evol": null
+    },
+    "Gyarados": {
+        "n": 24,
+        "pre_evol": {
+            "name": "Magikarp",
+            "info": "Level 20"
+        }
+    },
+    "Budew": {
+        "n": 25,
+        "pre_evol": null
+    },
+    "Roselia": {
+        "n": 26,
+        "pre_evol": {
+            "name": "Budew",
+            "info": "High Friendship, Daytime"
+        }
+    },
+    "Roserade": {
+        "n": 27,
+        "pre_evol": {
+            "name": "Roselia",
+            "info": "Shiny Stone"
+        }
+    },
+    "Zubat": {
+        "n": 28,
+        "pre_evol": null
+    },
+    "Golbat": {
+        "n": 29,
+        "pre_evol": {
+            "name": "Zubat",
+            "info": "Level 22"
+        }
+    },
+    "Crobat": {
+        "n": 30,
+        "pre_evol": {
+            "name": "Golbat",
+            "info": "High Friendship"
+        }
+    },
+    "Geodude": {
+        "n": 31,
+        "pre_evol": null
+    },
+    "Graveler": {
+        "n": 32,
+        "pre_evol": {
+            "name": "Geodude",
+            "info": "Level 25"
+        }
+    },
+    "Golem": {
+        "n": 33,
+        "pre_evol": {
+            "name": "Graveler",
+            "info": "Trade"
+        }
+    },
+    "Onix": {
+        "n": 34,
+        "pre_evol": null
+    },
+    "Steelix": {
+        "n": 35,
+        "pre_evol": {
+            "name": "Onix",
+            "info": "Trade (holding Metal Coat)"
+        }
+    },
+    "Cranidos": {
+        "n": 36,
+        "pre_evol": null
+    },
+    "Rampardos": {
+        "n": 37,
+        "pre_evol": {
+            "name": "Cranidos",
+            "info": "Level  30"
+        }
+    },
+    "Shieldon": {
+        "n": 38,
+        "pre_evol": null
+    },
+    "Bastiodon": {
+        "n": 39,
+        "pre_evol": {
+            "name": "Shieldon",
+            "info": "Level 30"
+        }
+    },
+    "Machop": {
+        "n": 40,
+        "pre_evol": null
+    },
+    "Machoke": {
+        "n": 41,
+        "pre_evol": {
+            "name": "Machop",
+            "info": "Level 28"
+        }
+    },
+    "Machamp": {
+        "n": 42,
+        "pre_evol": {
+            "name": "Machoke",
+            "info": "Trade"
+        }
+    },
+    "Psyduck": {
+        "n": 43,
+        "pre_evol": null
+    },
+    "Golduck": {
+        "n": 44,
+        "pre_evol": {
+            "name": "Psyduck",
+            "info": "Level 33"
+        }
+    },
+    "Burmy": {
+        "n": 45,
+        "pre_evol": null
+    },
+    "Wormadam": {
+        "n": 46,
+        "pre_evol": {
+            "name": "Burmy",
+            "info": "Level 20 (Female)"
+        }
+    },
+    "Mothim": {
+        "n": 47,
+        "pre_evol": {
+            "name": "Burmy",
+            "info": "Level 20 (Male)"
+        }
+    },
+    "Wurmple": {
+        "n": 48,
+        "pre_evol": null
+    },
+    "Silcoon": {
+        "n": 49,
+        "pre_evol": {
+            "name": "Wurmple",
+            "info": "Level 7 (based on personality)"
+        }
+    },
+    "Beautifly": {
+        "n": 50,
+        "pre_evol": {
+            "name": "Silcoon",
+            "info": "Level 10"
+        }
+    },
+    "Cascoon": {
+        "n": 51,
+        "pre_evol": {
+            "name": "Wurmple",
+            "info": "Level 7 (based on personality)"
+        }
+    },
+    "Dustox": {
+        "n": 52,
+        "pre_evol": {
+            "name": "Cascoon",
+            "info": "Level 10"
+        }
+    },
+    "Combee": {
+        "n": 53,
+        "pre_evol": null
+    },
+    "Vespiqueen": {
+        "n": 54,
+        "pre_evol": {
+            "name": "Combee",
+            "info": "Level 21, Female"
+        }
+    },
+    "Pachirisu": {
+        "n": 55,
+        "pre_evol": null
+    },
+    "Buizel": {
+        "n": 56,
+        "pre_evol": null
+    },
+    "Floatzel": {
+        "n": 57,
+        "pre_evol": {
+            "name": "Buizel",
+            "info": "Level 26"
+        }
+    },
+    "Cherubi": {
+        "n": 58,
+        "pre_evol": null
+    },
+    "Cherrim": {
+        "n": 59,
+        "pre_evol": {
+            "name": "Cherubi",
+            "info": "Level 25"
+        }
+    },
+    "Shellos": {
+        "n": 60,
+        "pre_evol": null
+    },
+    "Gastrodon": {
+        "n": 61,
+        "pre_evol": {
+            "name": "Shellos",
+            "info": "Level 30"
+        }
+    },
+    "Heracross": {
+        "n": 62,
+        "pre_evol": {
+            "name": "Shellos",
+            "info": "Level 30"
+        }
+    },
+    "Aipom": {
+        "n": 63,
+        "pre_evol": null
+    },
+    "Ambipom": {
+        "n": 64,
+        "pre_evol": {
+            "name": "Aipom",
+            "info": "Learn Double Hit (Level 32)"
+        }
+    },
+    "Drifloon": {
+        "n": 65,
+        "pre_evol": null
+    },
+    "Drifblim": {
+        "n": 66,
+        "pre_evol": {
+            "name": "Drifloon",
+            "info": "Level 28"
+        }
+    },
+    "Buneary": {
+        "n": 67,
+        "pre_evol": null
+    },
+    "Lopunny": {
+        "n": 68,
+        "pre_evol": {
+            "name": "Buneary",
+            "info": "High Friendship"
+        }
+    },
+    "Gastly": {
+        "n": 69,
+        "pre_evol": null
+    },
+    "Haunter": {
+        "n": 70,
+        "pre_evol": {
+            "name": "Gastly",
+            "info": "Level 25"
+        }
+    },
+    "Gengar": {
+        "n": 71,
+        "pre_evol": {
+            "name": "Haunter",
+            "info": "Trade"
+        }
+    },
+    "Misdreavus": {
+        "n": 72,
+        "pre_evol": null
+    },
+    "Mismagius": {
+        "n": 73,
+        "pre_evol": {
+            "name": "Misdreavus",
+            "info": "Dusk Stone"
+        }
+    },
+    "Murkrow": {
+        "n": 74,
+        "pre_evol": null
+    },
+    "Honchkrow": {
+        "n": 75,
+        "pre_evol": {
+            "name": "Murkrow",
+            "info": "Dusk Stone"
+        }
+    },
+    "Glameow": {
+        "n": 76,
+        "pre_evol": null
+    },
+    "Purugly": {
+        "n": 77,
+        "pre_evol": {
+            "name": "Glameow",
+            "info": "Level 38"
+        }
+    },
+    "Goldeen": {
+        "n": 78,
+        "pre_evol": null
+    },
+    "Seaking": {
+        "n": 79,
+        "pre_evol": {
+            "name": "Goldeen",
+            "info": "Level 33"
+        }
+    },
+    "Barboach": {
+        "n": 80,
+        "pre_evol": null
+    },
+    "Whiscash": {
+        "n": 81,
+        "pre_evol": {
+            "name": "Barboach",
+            "info": "Level 30"
+        }
+    },
+    "Chingling": {
+        "n": 82,
+        "pre_evol": null
+    },
+    "Chimecho": {
+        "n": 83,
+        "pre_evol": {
+            "name": "Chingling",
+            "info": "High Friendship, Nighttime"
+        }
+    },
+    "Stunky": {
+        "n": 84,
+        "pre_evol": null
+    },
+    "Skuntank": {
+        "n": 85,
+        "pre_evol": {
+            "name": "Stunky",
+            "info": "Level 34"
+        }
+    },
+    "Meditite": {
+        "n": 86,
+        "pre_evol": null
+    },
+    "Medicham": {
+        "n": 87,
+        "pre_evol": {
+            "name": "Meditite",
+            "info": "Level 37"
+        }
+    },
+    "Bronzor": {
+        "n": 88,
+        "pre_evol": null
+    },
+    "Bronzong": {
+        "n": 89,
+        "pre_evol": {
+            "name": "Bronzor",
+            "info": "Level 33"
+        }
+    },
+    "Ponyta": {
+        "n": 90,
+        "pre_evol": null
+    },
+    "Rapidash": {
+        "n": 91,
+        "pre_evol": {
+            "name": "Ponyta",
+            "info": "Level 40"
+        }
+    },
+    "Bonsly": {
+        "n": 92,
+        "pre_evol": null
+    },
+    "Sudowoodo": {
+        "n": 93,
+        "pre_evol": {
+            "name": "Bonsly",
+            "info": "Learn Mimic (Level 17)"
+        }
+    },
+    "Mime Jr.": {
+        "n": 94,
+        "pre_evol": null
+    },
+    "Mr. Mime": {
+        "n": 95,
+        "pre_evol": {
+            "name": "Mime Jr.",
+            "info": "Learn Mimic (Level 18)"
+        }
+    },
+    "Happiny": {
+        "n": 96,
+        "pre_evol": {
+            "name": "Happiny",
+            "info": "Oval Stone, Daylight"
+        }
+    },
+    "Chansey": {
+        "n": 97,
+        "pre_evol": {
+            "name": "Happiny",
+            "info": "Oval Stone, Daylight"
+        }
+    },
+    "Blissey": {
+        "n": 98,
+        "pre_evol": {
+            "name": "Chansey",
+            "info": "High Friendship"
+        }
+    },
+    "Cleffa": {
+        "n": 99,
+        "pre_evol": null
+    },
+    "Clefairy": {
+        "n": 100,
+        "pre_evol": {
+            "name": "Cleffa",
+            "info": "High Friendship"
+        }
+    },
+    "Clefable": {
+        "n": 101,
+        "pre_evol": {
+            "name": "Clefairy",
+            "info": "Moon Stone"
+        }
+    },
+    "Chatot": {
+        "n": 102,
+        "pre_evol": null
+    },
+    "Pichu": {
+        "n": 103,
+        "pre_evol": null
+    },
+    "Pikachu": {
+        "n": 104,
+        "pre_evol": {
+            "name": "Pichu",
+            "info": "High Friendship"
+        }
+    },
+    "Raichu": {
+        "n": 105,
+        "pre_evol": {
+            "name": "Pikachu",
+            "info": "Thunderstone"
+        }
+    },
+    "Hoothoot": {
+        "n": 106,
+        "pre_evol": null
+    },
+    "Noctowl": {
+        "n": 107,
+        "pre_evol": {
+            "name": "Hoothoot",
+            "info": "Level 20"
+        }
+    },
+    "Spiritomb": {
+        "n": 108,
+        "pre_evol": null
+    },
+    "Gible": {
+        "n": 109,
+        "pre_evol": null
+    },
+    "Gabite": {
+        "n": 110,
+        "pre_evol": {
+            "name": "Gible",
+            "info": "Level 24"
+        }
+    },
+    "Garchomp": {
+        "n": 111,
+        "pre_evol": {
+            "name": "Gabite",
+            "info": "Level 48"
+        }
+    },
+    "Munchlax": {
+        "n": 112,
+        "pre_evol": null
+    },
+    "Snorlax": {
+        "n": 113,
+        "pre_evol": {
+            "name": "Munchlax",
+            "info": "High Friendship"
+        }
+    },
+    "Unown": {
+        "n": 114,
+        "pre_evol": null
+    },
+    "Riolu": {
+        "n": 115,
+        "pre_evol": null
+    },
+    "Lucario": {
+        "n": 116,
+        "pre_evol": {
+            "name": "Riolu",
+            "info": "High Friendship, Daytime"
+        }
+    },
+    "Wooper": {
+        "n": 117,
+        "pre_evol": null
+    },
+    "Quagsire": {
+        "n": 118,
+        "pre_evol": {
+            "name": "Wooper",
+            "info": "Level 20"
+        }
+    },
+    "Wingull": {
+        "n": 119,
+        "pre_evol": null
+    },
+    "Pelipper": {
+        "n": 120,
+        "pre_evol": {
+            "name": "Wingull",
+            "info": "Level 25"
+        }
+    },
+    "Girafarig": {
+        "n": 121,
+        "pre_evol": null
+    },
+    "Hippopotas": {
+        "n": 122,
+        "pre_evol": null
+    },
+    "Hippowdown": {
+        "n": 123,
+        "pre_evol": {
+            "name": "Hippopotas",
+            "info": "Level 34"
+        }
+    },
+    "Azurill": {
+        "n": 124,
+        "pre_evol": null
+    },
+    "Marill": {
+        "n": 125,
+        "pre_evol": {
+            "name": "Azurill",
+            "info": "High Friendship"
+        }
+    },
+    "Azumarill": {
+        "n": 126,
+        "pre_evol": {
+            "name": "Marill",
+            "info": "Level 18"
+        }
+    },
+    "Skorupi": {
+        "n": 127,
+        "pre_evol": null
+    },
+    "Drapion": {
+        "n": 128,
+        "pre_evol": {
+            "name": "Skorupi",
+            "info": "Level 40"
+        }
+    },
+    "Croagunk": {
+        "n": 129,
+        "pre_evol": null
+    },
+    "Toxicroak": {
+        "n": 130,
+        "pre_evol": {
+            "name": "Croagunk",
+            "info": "Level 37"
+        }
+    },
+    "Carnivine": {
+        "n": 131,
+        "pre_evol": null
+    },
+    "Remoraid": {
+        "n": 132,
+        "pre_evol": null
+    },
+    "Octillery": {
+        "n": 133,
+        "pre_evol": {
+            "name": "Remoraid",
+            "info": "Level 25"
+        }
+    },
+    "Finneon": {
+        "n": 134,
+        "pre_evol": null
+    },
+    "Lumineon": {
+        "n": 135,
+        "pre_evol": {
+            "name": "Finneon",
+            "info": "Level 31"
+        }
+    },
+    "Tentacool": {
+        "n": 136,
+        "pre_evol": null
+    },
+    "Tentacruel": {
+        "n": 137,
+        "pre_evol": {
+            "name": "Tentacool",
+            "info": "Level 30"
+        }
+    },
+    "Feebas": {
+        "n": 138,
+        "pre_evol": null
+    },
+    "Milotic": {
+        "n": 139,
+        "pre_evol": {
+            "name": "Feebas",
+            "info": "Max Beauty"
+        }
+    },
+    "Mantyke": {
+        "n": 140,
+        "pre_evol": null
+    },
+    "Mantine": {
+        "n": 141,
+        "pre_evol": {
+            "name": "Mantyke",
+            "info": "Remoraid in Party"
+        }
+    },
+    "Snover": {
+        "n": 142,
+        "pre_evol": null
+    },
+    "Abomasnow": {
+        "n": 143,
+        "pre_evol": {
+            "name": "Snover",
+            "info": "Level 40"
+        }
+    },
+    "Sneasel": {
+        "n": 144,
+        "pre_evol": null
+    },
+    "Weavile": {
+        "n": 145,
+        "pre_evol": {
+            "name": "Sneasel",
+            "info": "Razor Claw, Nighttime"
+        }
+    },
+    "Uxie": {
+        "n": 146,
+        "pre_evol": null
+    },
+    "Mesprit": {
+        "n": 147,
+        "pre_evol": null
+    },
+    "Azelf": {
+        "n": 148,
+        "pre_evol": null
+    },
+    "Dialga": {
+        "n": 149,
+        "pre_evol": null
+    },
+    "Palkia": {
+        "n": 150,
+        "pre_evol": null
+    }
+}

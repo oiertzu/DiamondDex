@@ -1,0 +1,3765 @@
+{
+    "Starter": {
+        "place": "Lake Verity",
+        "pokemon": [
+            "Starly"
+        ],
+        "must": true,
+        "mapx": 838,
+        "mapy": 7419
+    },
+    "Youngster Tristan": {
+        "place": "Route 202",
+        "pokemon": [
+            "Starly"
+        ],
+        "must": true,
+        "mapx": 2179,
+        "mapy": 7315
+    },
+    "Lass Natalie": {
+        "place": "Route 202",
+        "pokemon": [
+            "Bidoof",
+            "Bidoof"
+        ],
+        "must": true,
+        "mapx": 2419,
+        "mapy": 7376
+    },
+    "Youngster Logan": {
+        "place": "Route 202",
+        "pokemon": [
+            "Shinx"
+        ],
+        "must": true,
+        "mapx": 2483,
+        "mapy": 7204
+    },
+    "School Kid Harrison": {
+        "place": "Jubilife City",
+        "pokemon": [
+            "Abra"
+        ],
+        "must": false,
+        "mapx": 2214,
+        "mapy": 6837
+    },
+    "School Kid Christine": {
+        "place": "Jubilife City",
+        "pokemon": [
+            "Abra"
+        ],
+        "must": false,
+        "mapx": 2214,
+        "mapy": 6837
+    },
+    "Youngster Michael": {
+        "place": "Route 203",
+        "pokemon": [
+            "Bidoof",
+            "Zubat"
+        ],
+        "must": false,
+        "mapx": 2789,
+        "mapy": 6533
+    },
+    "Youngster Dallas": {
+        "place": "Route 203",
+        "pokemon": [
+            "Kricketot"
+        ],
+        "must": false,
+        "mapx": 3077,
+        "mapy": 6598
+    },
+    "Lass Kaitlin": {
+        "place": "Route 203",
+        "pokemon": [
+            "Bidoof",
+            "Budew",
+            "Starly"
+        ],
+        "must": false,
+        "mapx": 3270,
+        "mapy": 6592
+    },
+    "Youngster Sebastian": {
+        "place": "Route 203",
+        "pokemon": [
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 3444,
+        "mapy": 6582
+    },
+    "Lass Madeline": {
+        "place": "Route 203",
+        "pokemon": [
+            "Starly",
+            "Bidoof"
+        ],
+        "must": false,
+        "mapx": 3365,
+        "mapy": 6482
+    },
+    "Camper Curtis": {
+        "place": "Oreburgh Gate",
+        "pokemon": [
+            "Shinx"
+        ],
+        "must": false,
+        "mapx": 3600,
+        "mapy": 6302
+    },
+    "Picnicker Diana": {
+        "place": "Oreburgh Gate",
+        "pokemon": [
+            "Budew",
+            "Psyduck"
+        ],
+        "must": false,
+        "mapx": 3714,
+        "mapy": 6253
+    },
+    "Veteran Grant": {
+        "place": "Oreburgh Gate",
+        "pokemon": [
+            "Riolu",
+            "Graveler",
+            "Staraptor"
+        ],
+        "must": false,
+        "mapx": 2968,
+        "mapy": 5839
+    },
+    "Worker Mason": {
+        "place": "Oreburgh Mine",
+        "pokemon": [
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 4531,
+        "mapy": 7805
+    },
+    "Worker Colin": {
+        "place": "Oreburgh Mine",
+        "pokemon": [
+            "Geodude",
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 4244,
+        "mapy": 7903
+    },
+    "Youngster Jonathon": {
+        "place": "Oreburgh Gym",
+        "pokemon": [
+            "Geodude"
+        ],
+        "must": false,
+        "mapx": 3848,
+        "mapy": 7053
+    },
+    "Youngster Darius": {
+        "place": "Oreburgh Gym",
+        "pokemon": [
+            "Geodude",
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 3896,
+        "mapy": 6945
+    },
+    "Leader Roark": {
+        "place": "Oreburgh Gym",
+        "pokemon": [
+            "Geodude",
+            "Onix",
+            "Cranidos"
+        ],
+        "must": true,
+        "mapx": 3864,
+        "mapy": 6826
+    },
+    "Galactic Grunts 1 & 2": {
+        "place": "Jubilife City",
+        "pokemon": [
+            "Wurmple",
+            "Zubat"
+        ],
+        "must": true,
+        "mapx": 2317,
+        "mapy": 6412
+    },
+    "Lass Sarah": {
+        "place": "Route 204 (South)",
+        "pokemon": [
+            "Bidoof"
+        ],
+        "must": false,
+        "mapx": 2276,
+        "mapy": 6226
+    },
+    "Youngster Tyler": {
+        "place": "Route 204 (South)",
+        "pokemon": [
+            "Magikarp",
+            "Starly"
+        ],
+        "must": false,
+        "mapx": 2196,
+        "mapy": 6190
+    },
+    "Lass Samantha": {
+        "place": "Route 204 (South)",
+        "pokemon": [
+            "Budew"
+        ],
+        "must": false,
+        "mapx": 2260,
+        "mapy": 6064
+    },
+    "Aroma Lady Taylor": {
+        "place": "Route 204 (North)",
+        "pokemon": [
+            "Budew",
+            "Cherubi"
+        ],
+        "must": false,
+        "mapx": 2356,
+        "mapy": 5778
+    },
+    "Bug Catcher Brandon": {
+        "place": "Route 204 (North)",
+        "pokemon": [
+            "Kricketot",
+            "Wurmple"
+        ],
+        "must": false,
+        "mapx": 2394,
+        "mapy": 5690
+    },
+    "Twins Liv & Liz": {
+        "place": "Route 204 (North)",
+        "pokemon": [
+            "Pachirisu",
+            "Pachirisu"
+        ],
+        "must": false,
+        "mapx": 2332,
+        "mapy": 5617
+    },
+    "Galactic Grunt 3": {
+        "place": "Valley Windworks",
+        "pokemon": [
+            "Glameow"
+        ],
+        "must": true,
+        "mapx": 3413,
+        "mapy": 5321
+    },
+    "Galactic Grunt 4": {
+        "place": "Floaroma Meadow",
+        "pokemon": [
+            "Wurmple",
+            "Silcoon"
+        ],
+        "must": true,
+        "mapx": 1252,
+        "mapy": 5318
+    },
+    "Galactic Grunt 5": {
+        "place": "Floaroma Meadow",
+        "pokemon": [
+            "Zubat"
+        ],
+        "must": true,
+        "mapx": 1267,
+        "mapy": 5318
+    },
+    "Galactic Grunt 6": {
+        "place": "Valley Windworks",
+        "pokemon": [
+            "Cascoon"
+        ],
+        "must": false,
+        "mapx": 3647,
+        "mapy": 5193
+    },
+    "Galactic Grunt 7": {
+        "place": "Valley Windworks",
+        "pokemon": [
+            "Wurmple",
+            "Glameow"
+        ],
+        "must": false,
+        "mapx": 3789,
+        "mapy": 5132
+    },
+    "Commander Mars 1": {
+        "place": "Valley Windworks",
+        "pokemon": [
+            "Zubat",
+            "Purugly"
+        ],
+        "must": true,
+        "mapx": 3918,
+        "mapy": 5181
+    },
+    "Camper Jacob": {
+        "place": "Route 205 (South)",
+        "pokemon": [
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 2966,
+        "mapy": 5216
+    },
+    "Hiker Daniel": {
+        "place": "Route 205 (South)",
+        "pokemon": [
+            "Geodude",
+            "Machop",
+            "Geodude",
+            "Bidoof"
+        ],
+        "must": false,
+        "mapx": 2886,
+        "mapy": 5093
+    },
+    "Aroma Lady Elizabeth": {
+        "place": "Route 205 (South)",
+        "pokemon": [
+            "Budew"
+        ],
+        "must": false,
+        "mapx": 2966,
+        "mapy": 5052
+    },
+    "Picnicker Siena": {
+        "place": "Route 205 (South)",
+        "pokemon": [
+            "Shinx",
+            "Pachirisu"
+        ],
+        "must": false,
+        "mapx": 2982,
+        "mapy": 4880
+    },
+    "Camper Zackary": {
+        "place": "Route 205 (South)",
+        "pokemon": [
+            "Geodude"
+        ],
+        "must": false,
+        "mapx": 2870,
+        "mapy": 4942
+    },
+    "Hiker Nicholas": {
+        "place": "Route 205 (South)",
+        "pokemon": [
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 2854,
+        "mapy": 4747
+    },
+    "Battle Girl Kelsey": {
+        "place": "Route 205 (South)",
+        "pokemon": [
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 2837,
+        "mapy": 4660
+    },
+    "Picnicker Karina": {
+        "place": "Route 205 (South)",
+        "pokemon": [
+            "Piplup"
+        ],
+        "must": false,
+        "mapx": 2854,
+        "mapy": 4563
+    },
+    "Bug Catcher Jack & Lass Briana": {
+        "place": "Eterna Forest",
+        "pokemon": [
+            "Pachirisu",
+            "Wurmple",
+            "Beautifly",
+            "Silcoon"
+        ],
+        "must": true,
+        "mapx": 3210,
+        "mapy": 3223
+    },
+    "Psychic Lindsey": {
+        "place": "Eterna Forest",
+        "pokemon": [
+            "Abra"
+        ],
+        "must": true,
+        "mapx": 3397,
+        "mapy": 3227
+    },
+    "Psychic Elijah": {
+        "place": "Eterna Forest",
+        "pokemon": [
+            "Abra"
+        ],
+        "must": true,
+        "mapx": 3476,
+        "mapy": 3227
+    },
+    "Bug Catcher Donald": {
+        "place": "Eterna Forest",
+        "pokemon": [
+            "Burmy",
+            "Kricketune"
+        ],
+        "must": false,
+        "mapx": 3636,
+        "mapy": 3426
+    },
+    "Bug Catcher Phillip": {
+        "place": "Eterna Forest",
+        "pokemon": [
+            "Wurmple",
+            "Dustox",
+            "Cascoon"
+        ],
+        "must": false,
+        "mapx": 3636,
+        "mapy": 3467
+    },
+    "Psychic Kody": {
+        "place": "Eterna Forest",
+        "pokemon": [
+            "Meditite"
+        ],
+        "must": false,
+        "mapx": 3781,
+        "mapy": 3227
+    },
+    "Psychic Rachael": {
+        "place": "Eterna Forest",
+        "pokemon": [
+            "Psyduck"
+        ],
+        "must": false,
+        "mapx": 3828,
+        "mapy": 3227
+    },
+    "Cheryl": {
+        "place": "Eterna Forest",
+        "pokemon": [
+            "Chansey"
+        ],
+        "must": true,
+        "mapx": 3044,
+        "mapy": 3424
+    },
+    "Fisherman Joseph": {
+        "place": "Route 205 (North)",
+        "pokemon": [
+            "Goldeen"
+        ],
+        "must": false,
+        "mapx": 3846,
+        "mapy": 3787
+    },
+    "Fisherman Andrew": {
+        "place": "Route 205 (North)",
+        "pokemon": [
+            "Magikarp",
+            "Magikarp",
+            "Magikarp",
+            "Magikarp",
+            "Magikarp",
+            "Magikarp"
+        ],
+        "must": false,
+        "mapx": 3910,
+        "mapy": 3773
+    },
+    "Fisherman Zachary": {
+        "place": "Route 205 (North)",
+        "pokemon": [
+            "Magikarp",
+            "Goldeen",
+            "Magikarp"
+        ],
+        "must": false,
+        "mapx": 3958,
+        "mapy": 3824
+    },
+    "Lass Caroline": {
+        "place": "Eterna Gym",
+        "pokemon": [
+            "Cherubi",
+            "Roselia"
+        ],
+        "must": true,
+        "mapx": 4804,
+        "mapy": 4099
+    },
+    "Aroma Lady Jenna": {
+        "place": "Eterna Gym",
+        "pokemon": [
+            "Budew",
+            "Budew",
+            "Budew"
+        ],
+        "must": true,
+        "mapx": 4787,
+        "mapy": 4272
+    },
+    "Aroma Lady Angela": {
+        "place": "Eterna Gym",
+        "pokemon": [
+            "Turtwig"
+        ],
+        "must": true,
+        "mapx": 4996,
+        "mapy": 4161
+    },
+    "Beauty Lindsay": {
+        "place": "Eterna Gym",
+        "pokemon": [
+            "Roselia"
+        ],
+        "must": true,
+        "mapx": 4964,
+        "mapy": 4049
+    },
+    "Leader Gardenia": {
+        "place": "Eterna Gym",
+        "pokemon": [
+            "Cherubi",
+            "Turtwig",
+            "Roserade"
+        ],
+        "must": true,
+        "mapx": 4884,
+        "mapy": 3981
+    },
+    "Galactic Grunt 8": {
+        "place": "Eterna City",
+        "pokemon": [
+            "Zubat",
+            "Glameow"
+        ],
+        "must": true,
+        "mapx": 4346,
+        "mapy": 3380
+    },
+    "Galactic Grunt 9": {
+        "place": "Eterna City",
+        "pokemon": [
+            "Wurmple",
+            "Cascoon"
+        ],
+        "must": true,
+        "mapx": 4412,
+        "mapy": 3380
+    },
+    "Galactic Grunt 10": {
+        "place": "Eterna City",
+        "pokemon": [
+            "Wurmple",
+            "Zubat"
+        ],
+        "must": false,
+        "mapx": 4463,
+        "mapy": 3449
+    },
+    "Galactic Grunt 11": {
+        "place": "Eterna City",
+        "pokemon": [
+            "Silcoon"
+        ],
+        "must": false,
+        "mapx": 4591,
+        "mapy": 3412
+    },
+    "Galactic Grunt 12": {
+        "place": "Eterna City",
+        "pokemon": [
+            "Wurmple",
+            "Silcoon",
+            "Zubat"
+        ],
+        "must": true,
+        "mapx": 4837,
+        "mapy": 3405
+    },
+    "Scientist Travon": {
+        "place": "Eterna City",
+        "pokemon": [
+            "Kadabra"
+        ],
+        "must": true,
+        "mapx": 4966,
+        "mapy": 3379
+    },
+    "Commander Jupiter": {
+        "place": "Eterna City",
+        "pokemon": [
+            "Zubat",
+            "Skuntank"
+        ],
+        "must": true,
+        "mapx": 5130,
+        "mapy": 3417
+    },
+    "Cyclist Axel": {
+        "place": "Route 206",
+        "pokemon": [
+            "Staravia"
+        ],
+        "must": false,
+        "mapx": 4354,
+        "mapy": 4612
+    },
+    "Cyclist Megan": {
+        "place": "Route 206",
+        "pokemon": [
+            "Shinx"
+        ],
+        "must": false,
+        "mapx": 4305,
+        "mapy": 4740
+    },
+    "Cyclist James": {
+        "place": "Route 206",
+        "pokemon": [
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 4386,
+        "mapy": 4888
+    },
+    "Cyclist Nicole": {
+        "place": "Route 206",
+        "pokemon": [
+            "Starly",
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 4407,
+        "mapy": 5008
+    },
+    "Cyclist John": {
+        "place": "Route 206",
+        "pokemon": [
+            "Starly",
+            "Staravia"
+        ],
+        "must": false,
+        "mapx": 4372,
+        "mapy": 5173
+    },
+    "Cyclist Ryan": {
+        "place": "Route 206",
+        "pokemon": [
+            "Zubat"
+        ],
+        "must": false,
+        "mapx": 4321,
+        "mapy": 5389
+    },
+    "Cyclist Rachel": {
+        "place": "Route 206",
+        "pokemon": [
+            "Shinx",
+            "Shinx"
+        ],
+        "must": false,
+        "mapx": 4306,
+        "mapy": 5509
+    },
+    "Cyclist Kayla": {
+        "place": "Route 206",
+        "pokemon": [
+            "Pikachu"
+        ],
+        "must": false,
+        "mapx": 4417,
+        "mapy": 5886
+    },
+    "Hiker Theodore": {
+        "place": "Route 206",
+        "pokemon": [
+            "Onix",
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 4497,
+        "mapy": 4958
+    },
+    "Camper Anthony": {
+        "place": "Route 207",
+        "pokemon": [
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 4642,
+        "mapy": 6079
+    },
+    "Picnicker Lauren": {
+        "place": "Route 207",
+        "pokemon": [
+            "Pachirisu"
+        ],
+        "must": false,
+        "mapx": 4642,
+        "mapy": 6005
+    },
+    "Youngster Austin": {
+        "place": "Route 207",
+        "pokemon": [
+            "Starly",
+            "Geodude",
+            "Chimchar"
+        ],
+        "must": false,
+        "mapx": 4723,
+        "mapy": 6204
+    },
+    "Hiker Kevin": {
+        "place": "Route 207",
+        "pokemon": [
+            "Geodude",
+            "Geodude",
+            "Zubat",
+            "Geodude"
+        ],
+        "must": false,
+        "mapx": 4626,
+        "mapy": 6121
+    },
+    "Battle Girl Helen": {
+        "place": "Route 207",
+        "pokemon": [
+            "Meditite",
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 4931,
+        "mapy": 6144
+    },
+    "Hiker Justin": {
+        "place": "Route 207",
+        "pokemon": [
+            "Geodude",
+            "Bronzor"
+        ],
+        "must": false,
+        "mapx": 4881,
+        "mapy": 6065
+    },
+    "Hiker Robert": {
+        "place": "Route 208",
+        "pokemon": [
+            "Geodude",
+            "Geodude"
+        ],
+        "must": false,
+        "mapx": 6075,
+        "mapy": 6149
+    },
+    "Black Belt Kyle": {
+        "place": "Route 208",
+        "pokemon": [
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 5969,
+        "mapy": 6025
+    },
+    "Hiker Jonathan": {
+        "place": "Route 208",
+        "pokemon": [
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 6266,
+        "mapy": 6107
+    },
+    "Aroma Lady Hannah": {
+        "place": "Route 208",
+        "pokemon": [
+            "Combee",
+            "Roselia"
+        ],
+        "must": false,
+        "mapx": 6474,
+        "mapy": 6143
+    },
+    "Artist William": {
+        "place": "Route 208",
+        "pokemon": [
+            "Mime Jr.",
+            "Bonsly"
+        ],
+        "must": false,
+        "mapx": 6570,
+        "mapy": 6191
+    },
+    "Fisherman Cody": {
+        "place": "Route 208",
+        "pokemon": [
+            "Barboach",
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 6155,
+        "mapy": 6227
+    },
+    "Hiker Alexander": {
+        "place": "Route 208",
+        "pokemon": [
+            "Golbat",
+            "Graveler",
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 5786,
+        "mapy": 6078
+    },
+    "Pokemon Breeder Albert": {
+        "place": "Route 209",
+        "pokemon": [
+            "Bonsly",
+            "Pichu",
+            "Budew"
+        ],
+        "must": false,
+        "mapx": 7898,
+        "mapy": 6205
+    },
+    "Jogger Richard": {
+        "place": "Route 209",
+        "pokemon": [
+            "Luxio"
+        ],
+        "must": false,
+        "mapx": 8152,
+        "mapy": 6180
+    },
+    "Twins Emma & Lil": {
+        "place": "Route 209",
+        "pokemon": [
+            "Bonsly",
+            "Mime Jr."
+        ],
+        "must": true,
+        "mapx": 8259,
+        "mapy": 6146
+    },
+    "Poke Kid Danielle": {
+        "place": "Route 209",
+        "pokemon": [
+            "Pikachu"
+        ],
+        "must": false,
+        "mapx": 8377,
+        "mapy": 6171
+    },
+    "Jogger Raul": {
+        "place": "Route 209",
+        "pokemon": [
+            "Staravia"
+        ],
+        "must": false,
+        "mapx": 8460,
+        "mapy": 6075
+    },
+    "Pokemon Breeder Jennifer": {
+        "place": "Route 209",
+        "pokemon": [
+            "Mime Jr.",
+            "Budew",
+            "Cleffa"
+        ],
+        "must": false,
+        "mapx": 8410,
+        "mapy": 6034
+    },
+    "Cowgirl Shelley": {
+        "place": "Route 209",
+        "pokemon": [
+            "Bidoof",
+            "Bidoof",
+            "Bidoof",
+            "Bidoof",
+            "Bidoof"
+        ],
+        "must": false,
+        "mapx": 8506,
+        "mapy": 5772
+    },
+    "Young Couple Ty & Sue": {
+        "place": "Route 209",
+        "pokemon": [
+            "Meditite",
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 8494,
+        "mapy": 5676
+    },
+    "Youngster Oliver": {
+        "place": "Lost Tower",
+        "pokemon": [
+            "Stunky",
+            "Shellos",
+            "Kricketune"
+        ],
+        "must": false,
+        "mapx": 9104,
+        "mapy": 5697
+    },
+    "Roughneck Kirby": {
+        "place": "Lost Tower",
+        "pokemon": [
+            "Cleffa"
+        ],
+        "must": false,
+        "mapx": 9276,
+        "mapy": 5746
+    },
+    "Pokefan Leonard": {
+        "place": "Lost Tower",
+        "pokemon": [
+            "Pichu",
+            "Pichu",
+            "Pikachu"
+        ],
+        "must": false,
+        "mapx": 9308,
+        "mapy": 5648
+    },
+    "Pokefan Rebekah": {
+        "place": "Lost Tower",
+        "pokemon": [
+            "Bonsly"
+        ],
+        "must": false,
+        "mapx": 9559,
+        "mapy": 5711
+    },
+    "Belle & Pa Beth & Bob": {
+        "place": "Lost Tower",
+        "pokemon": [
+            "Buizel",
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 9623,
+        "mapy": 5736
+    },
+    "Young Couple Mike & Nat": {
+        "place": "Lost Tower",
+        "pokemon": [
+            "Murkrow",
+            "Misdreavus"
+        ],
+        "must": false,
+        "mapx": 9486,
+        "mapy": 5684
+    },
+    "Ruin Maniac Karl": {
+        "place": "Solaceon Ruins",
+        "pokemon": [
+            "Geodude",
+            "Geodude",
+            "Bronzor"
+        ],
+        "must": false,
+        "mapx": 9066,
+        "mapy": 5342
+    },
+    "Jogger Wyatt": {
+        "place": "Route 210 (South)",
+        "pokemon": [
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 8606,
+        "mapy": 4939
+    },
+    "Rancher Marco": {
+        "place": "Route 210 (South)",
+        "pokemon": [
+            "Aipom",
+            "Girafarig",
+            "Psyduck"
+        ],
+        "must": false,
+        "mapx": 8427,
+        "mapy": 4992
+    },
+    "Belle & Pa Ava & Matt": {
+        "place": "Route 210 (South)",
+        "pokemon": [
+            "Glameow",
+            "Stunky"
+        ],
+        "must": false,
+        "mapx": 8554,
+        "mapy": 4846
+    },
+    "Twins Teri & Tia": {
+        "place": "Route 210 (South)",
+        "pokemon": [
+            "Clefairy",
+            "Pikachu"
+        ],
+        "must": false,
+        "mapx": 8466,
+        "mapy": 4774
+    },
+    "Pokemon Breeder Kahlil": {
+        "place": "Route 210 (South)",
+        "pokemon": [
+            "Pichu",
+            "Pikachu",
+            "Happiny"
+        ],
+        "must": false,
+        "mapx": 8410,
+        "mapy": 4712
+    },
+    "Pokemon Breeder Amber": {
+        "place": "Route 210 (South)",
+        "pokemon": [
+            "Cleffa",
+            "Clefairy",
+            "Happiny"
+        ],
+        "must": false,
+        "mapx": 8554,
+        "mapy": 4674
+    },
+    "Collector Fernando": {
+        "place": "Cafe Cabin",
+        "pokemon": [
+            "Mr. Mime",
+            "Mr. Mime",
+            "Mr. Mime"
+        ],
+        "must": false,
+        "mapx": 8098,
+        "mapy": 4468
+    },
+    "Collector Edwin": {
+        "place": "Cafe Cabin",
+        "pokemon": [
+            "Sudowoodo",
+            "Sudowoodo",
+            "Sudowoodo"
+        ],
+        "must": false,
+        "mapx": 8130,
+        "mapy": 4468
+    },
+    "Waitress Kati": {
+        "place": "Cafe Cabin",
+        "pokemon": [
+            "Clefairy"
+        ],
+        "must": false,
+        "mapx": 8162,
+        "mapy": 4457
+    },
+    "Ruin Maniac Calvin": {
+        "place": "Route 215",
+        "pokemon": [
+            "Bronzor",
+            "Shieldon"
+        ],
+        "must": true,
+        "mapx": 8969,
+        "mapy": 4536
+    },
+    "Jogger Craig": {
+        "place": "Route 215",
+        "pokemon": [
+            "Luxio",
+            "Staravia",
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 9148,
+        "mapy": 4539
+    },
+    "Black Belt Derek": {
+        "place": "Route 215",
+        "pokemon": [
+            "Croagunk"
+        ],
+        "must": false,
+        "mapx": 9257,
+        "mapy": 4464
+    },
+    "Black Belt Gregory": {
+        "place": "Route 215",
+        "pokemon": [
+            "Meditite",
+            "Machop",
+            "Meditite"
+        ],
+        "must": false,
+        "mapx": 9481,
+        "mapy": 4390
+    },
+    "Black Belt Nathaniel": {
+        "place": "Route 215",
+        "pokemon": [
+            "Croagunk",
+            "Machop",
+            "Meditite"
+        ],
+        "must": false,
+        "mapx": 9835,
+        "mapy": 4434
+    },
+    "Jogger Scott": {
+        "place": "Route 215",
+        "pokemon": [
+            "Staravia"
+        ],
+        "must": false,
+        "mapx": 9592,
+        "mapy": 4668
+    },
+    "Ace Trainer Dennis": {
+        "place": "Route 215",
+        "pokemon": [
+            "Monferno",
+            "Gyarados"
+        ],
+        "must": true,
+        "mapx": 9913,
+        "mapy": 4640
+    },
+    "Ace Trainer Maya": {
+        "place": "Route 215",
+        "pokemon": [
+            "Glameow",
+            "Kadabra"
+        ],
+        "must": true,
+        "mapx": 9913,
+        "mapy": 4610
+    },
+    "Black Belt Jeffery": {
+        "place": "Veilstone Gym",
+        "pokemon": [
+            "Machoke",
+            "Meditite"
+        ],
+        "must": false,
+        "mapx": 10087,
+        "mapy": 4998
+    },
+    "Black Belt Colby": {
+        "place": "Veilstone Gym",
+        "pokemon": [
+            "Machoke",
+            "Machoke",
+            "Machoke"
+        ],
+        "must": false,
+        "mapx": 10087,
+        "mapy": 4923
+    },
+    "Black Belt Darren": {
+        "place": "Veilstone Gym",
+        "pokemon": [
+            "Machoke",
+            "Machop",
+            "Machoke"
+        ],
+        "must": false,
+        "mapx": 9976,
+        "mapy": 4998
+    },
+    "Black Belt Rafael": {
+        "place": "Veilstone Gym",
+        "pokemon": [
+            "Meditite"
+        ],
+        "must": true,
+        "mapx": 10198,
+        "mapy": 4987
+    },
+    "Leader Maylene": {
+        "place": "Veilstone Gym",
+        "pokemon": [
+            "Meditite",
+            "Machoke",
+            "Lucario"
+        ],
+        "must": true,
+        "mapx": 10087,
+        "mapy": 4804
+    },
+    "Galactic Grunts 13 & 14": {
+        "place": "Veilstone City",
+        "pokemon": [
+            "Beautifly",
+            "Dustox",
+            "Croagunk",
+            "Stunky"
+        ],
+        "must": true,
+        "mapx": 10668,
+        "mapy": 4623
+    },
+    "Psychic Abigail": {
+        "place": "Route 214",
+        "pokemon": [
+            "Gastly",
+            "Misdreavus",
+            "Kadabra"
+        ],
+        "must": true,
+        "mapx": 11080,
+        "mapy": 5400
+    },
+    "Ruin Maniac Bryan": {
+        "place": "Route 214",
+        "pokemon": [
+            "Cranidos",
+            "Geodude",
+            "Bronzor"
+        ],
+        "must": false,
+        "mapx": 10969,
+        "mapy": 5761
+    },
+    "Collector Jamal": {
+        "place": "Route 214",
+        "pokemon": [
+            "Buizel",
+            "Buizel",
+            "Buizel"
+        ],
+        "must": false,
+        "mapx": 11050,
+        "mapy": 5899
+    },
+    "Ruin Maniac Hunter": {
+        "place": "Route 214",
+        "pokemon": [
+            "Shieldon"
+        ],
+        "must": false,
+        "mapx": 10968,
+        "mapy": 5762
+    },
+    "PI Carlos": {
+        "place": "Route 214",
+        "pokemon": [
+            "Goldeen",
+            "Goldeen",
+            "Goldeen"
+        ],
+        "must": false,
+        "mapx": 11161,
+        "mapy": 5599
+    },
+    "Collector Brady": {
+        "place": "Route 214",
+        "pokemon": [
+            "Ponyta",
+            "Ponyta",
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 11210,
+        "mapy": 5666
+    },
+    "Beauty Devon": {
+        "place": "Route 214",
+        "pokemon": [
+            "Wormadam"
+        ],
+        "must": false,
+        "mapx": 11240,
+        "mapy": 5744
+    },
+    "Psychic Mitchell": {
+        "place": "Route 214",
+        "pokemon": [
+            "Haunter",
+            "Kadabra"
+        ],
+        "must": false,
+        "mapx": 11240,
+        "mapy": 5833
+    },
+    "Collector Douglas": {
+        "place": "Route 214",
+        "pokemon": [
+            "Roselia",
+            "Roselia",
+            "Roselia"
+        ],
+        "must": false,
+        "mapx": 11240,
+        "mapy": 6126
+    },
+    "Scientist Emilio & Pokemon Breeder Kaylee": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Kadabra",
+            "Stunky",
+            "Buizel"
+        ],
+        "must": false,
+        "mapx": 10312,
+        "mapy": 6887
+    },
+    "Cameraman Darryl & Reporter Valerie": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Luxio",
+            "Murkrow",
+            "Pikachu"
+        ],
+        "must": false,
+        "mapx": 10359,
+        "mapy": 6851
+    },
+    "Gentleman Leonardo & Socialite Rebecca": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Starly",
+            "Lopunny",
+            "Hoothoot",
+            "Glameow"
+        ],
+        "must": false,
+        "mapx": 10328,
+        "mapy": 6789
+    },
+    "Collector Eugene & Aroma Lady Alison": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Clefairy",
+            "Clefairy",
+            "Clefairy",
+            "Roselia"
+        ],
+        "must": false,
+        "mapx": 10200,
+        "mapy": 6824
+    },
+    "Veteran Emanuel & Lass Blythe": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Machop",
+            "Bidoof",
+            "Bronzor",
+            "Bidoof"
+        ],
+        "must": false,
+        "mapx": 10136,
+        "mapy": 6850
+    },
+    "Artist Ismael & Beauty Harley": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Mr. Mime",
+            "Psyduck"
+        ],
+        "must": false,
+        "mapx": 10168,
+        "mapy": 6789
+    },
+    "Rich Boy Roman & Lady Kylie": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Sudowoodo",
+            "Bonsly",
+            "Pichu"
+        ],
+        "must": false,
+        "mapx": 10248,
+        "mapy": 6789
+    },
+    "School Kid Esteban & Pokefan Meredith": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Wooper",
+            "Marill",
+            "Aipom"
+        ],
+        "must": false,
+        "mapx": 10296,
+        "mapy": 6824
+    },
+    "PI Kendrick & Beauty Gabriella": {
+        "place": "Seven Stars Restaurant",
+        "pokemon": [
+            "Goldeen",
+            "Finneon",
+            "Goldeen"
+        ],
+        "must": false,
+        "mapx": 10296,
+        "mapy": 6824
+    },
+    "Tuber Chelsea": {
+        "place": "Route 213",
+        "pokemon": [
+            "Bibarel"
+        ],
+        "must": false,
+        "mapx": 10809,
+        "mapy": 7476
+    },
+    "Tuber Jared": {
+        "place": "Route 213",
+        "pokemon": [
+            "Shellos",
+            "Shellos",
+            "Shellos"
+        ],
+        "must": false,
+        "mapx": 10852,
+        "mapy": 7536
+    },
+    "Fisherman Kenneth": {
+        "place": "Route 213",
+        "pokemon": [
+            "Magikarp",
+            "Remoraid",
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 10185,
+        "mapy": 7699
+    },
+    "Beauty Cyndy": {
+        "place": "Route 213",
+        "pokemon": [
+            "Glameow"
+        ],
+        "must": false,
+        "mapx": 10233,
+        "mapy": 7477
+    },
+    "Swimmer Haley": {
+        "place": "Route 213",
+        "pokemon": [
+            "Marill",
+            "Azumarill"
+        ],
+        "must": false,
+        "mapx": 10800,
+        "mapy": 7776
+    },
+    "Sailor Paul": {
+        "place": "Route 213",
+        "pokemon": [
+            "Gyarados",
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 11016,
+        "mapy": 7813
+    },
+    "Swimmer Evan": {
+        "place": "Route 213",
+        "pokemon": [
+            "Golduck",
+            "Golduck"
+        ],
+        "must": false,
+        "mapx": 11144,
+        "mapy": 7666
+    },
+    "Swimmer Mary": {
+        "place": "Route 213",
+        "pokemon": [
+            "Marill",
+            "Pelipper"
+        ],
+        "must": false,
+        "mapx": 11225,
+        "mapy": 7666
+    },
+    "Fisherman Walter": {
+        "place": "Pastoria Gym",
+        "pokemon": [
+            "Barboach"
+        ],
+        "must": false,
+        "mapx": 8459,
+        "mapy": 7137
+    },
+    "Sailor Damian": {
+        "place": "Pastoria Gym",
+        "pokemon": [
+            "Wingull",
+            "Wingull"
+        ],
+        "must": true,
+        "mapx": 8427,
+        "mapy": 7274
+    },
+    "Tuber Jacky": {
+        "place": "Pastoria Gym",
+        "pokemon": [
+            "Buizel"
+        ],
+        "must": true,
+        "mapx": 8490,
+        "mapy": 7412
+    },
+    "Tuber Caitlyn": {
+        "place": "Pastoria Gym",
+        "pokemon": [
+            "Azurill",
+            "Marill"
+        ],
+        "must": true,
+        "mapx": 8652,
+        "mapy": 7412
+    },
+    "Fisherman Erick": {
+        "place": "Pastoria Gym",
+        "pokemon": [
+            "Goldeen",
+            "Barboach",
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 8619,
+        "mapy": 7227
+    },
+    "Sailor Samson": {
+        "place": "Pastoria Gym",
+        "pokemon": [
+            "Shellos",
+            "Shellos",
+            "Wingull"
+        ],
+        "must": true,
+        "mapx": 8394,
+        "mapy": 7102
+    },
+    "Leader Wake": {
+        "place": "Pastoria Gym",
+        "pokemon": [
+            "Gyarados",
+            "Quagsire",
+            "Floatzel"
+        ],
+        "must": true,
+        "mapx": 8524,
+        "mapy": 7054
+    },
+    "Galactic Grunt 15": {
+        "place": "Valor Lakefront",
+        "pokemon": [
+            "Glameow"
+        ],
+        "must": true,
+        "mapx": 11111,
+        "mapy": 6710
+    },
+    "Socialite Reina": {
+        "place": "Route 212 (North)",
+        "pokemon": [
+            "Roselia"
+        ],
+        "must": false,
+        "mapx": 6867,
+        "mapy": 7083
+    },
+    "Gentleman Jeremy": {
+        "place": "Route 212 (North)",
+        "pokemon": [
+            "Chatot"
+        ],
+        "must": false,
+        "mapx": 6828,
+        "mapy": 7083
+    },
+    "Rich Boy Jason": {
+        "place": "Route 212 (North)",
+        "pokemon": [
+            "Luxio"
+        ],
+        "must": false,
+        "mapx": 7100,
+        "mapy": 6887
+    },
+    "Lady Melissa": {
+        "place": "Route 212 (North)",
+        "pokemon": [
+            "Buneary"
+        ],
+        "must": false,
+        "mapx": 7131,
+        "mapy": 6887
+    },
+    "Policeman Bobby": {
+        "place": "Route 212 (North)",
+        "pokemon": [
+            "Hoothoot"
+        ],
+        "must": false,
+        "mapx": 6876,
+        "mapy": 6625
+    },
+    "Policeman Alex": {
+        "place": "Route 212 (North)",
+        "pokemon": [
+            "Hoothoot",
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 6828,
+        "mapy": 6819
+    },
+    "Policeman Dylan": {
+        "place": "Route 212 (North)",
+        "pokemon": [
+            "Hoothoot",
+            "Meditite"
+        ],
+        "must": false,
+        "mapx": 6907,
+        "mapy": 6988
+    },
+    "Policeman Caleb": {
+        "place": "Route 212 (North)",
+        "pokemon": [
+            "Hoothoot",
+            "Meditite"
+        ],
+        "must": false,
+        "mapx": 7064,
+        "mapy": 7095
+    },
+    "Policeman Danny": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Hoothoot",
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 7132,
+        "mapy": 7609
+    },
+    "Pokemon Ranger Allison": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Aipom",
+            "Marill"
+        ],
+        "must": false,
+        "mapx": 6859,
+        "mapy": 7657
+    },
+    "Pokemon Ranger Jeffrey": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Prinplup",
+            "Prinplup"
+        ],
+        "must": false,
+        "mapx": 6859,
+        "mapy": 7693
+    },
+    "Scientist Stefano": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Kadabra"
+        ],
+        "must": false,
+        "mapx": 6875,
+        "mapy": 7831
+    },
+    "Collector Dominique": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Geodude",
+            "Geodude",
+            "Geodude"
+        ],
+        "must": false,
+        "mapx": 7421,
+        "mapy": 7794
+    },
+    "Fisherman Travis": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Barboach",
+            "Barboach",
+            "Barboach",
+            "Shellos"
+        ],
+        "must": false,
+        "mapx": 7531,
+        "mapy": 7831
+    },
+    "Fisherman Cameron": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Goldeen",
+            "Barboach"
+        ],
+        "must": false,
+        "mapx": 7548,
+        "mapy": 7720
+    },
+    "Fisherman Juan": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 7659,
+        "mapy": 7768
+    },
+    "Parasol Lady Alexa": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Goldeen",
+            "Buizel"
+        ],
+        "must": false,
+        "mapx": 7867,
+        "mapy": 7734
+    },
+    "Pokemon Ranger Taylor": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Luxio",
+            "Buizel"
+        ],
+        "must": false,
+        "mapx": 8363,
+        "mapy": 7820
+    },
+    "Scientist Shaun": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Abra",
+            "Kadabra"
+        ],
+        "must": false,
+        "mapx": 8203,
+        "mapy": 7616
+    },
+    "Parasol Lady Sabrina": {
+        "place": "Route 212 (South)",
+        "pokemon": [
+            "Psyduck"
+        ],
+        "must": false,
+        "mapx": 7995,
+        "mapy": 7598
+    },
+    "Ninja Boy Fabian": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Geodude",
+            "Geodude",
+            "Geodude"
+        ],
+        "must": false,
+        "mapx": 8538,
+        "mapy": 4291
+    },
+    "Ninja Boy Brennan": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Zubat",
+            "Skorupi"
+        ],
+        "must": false,
+        "mapx": 8346,
+        "mapy": 4304
+    },
+    "Ninja Boy Bruce": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Stunky"
+        ],
+        "must": false,
+        "mapx": 8698,
+        "mapy": 4193
+    },
+    "Ninja Boy Joel": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Zubat",
+            "Zubat",
+            "Golbat",
+            "Skorupi"
+        ],
+        "must": false,
+        "mapx": 8571,
+        "mapy": 3813
+    },
+    "Ace Trainer Alyssa": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Ponyta",
+            "Grotle"
+        ],
+        "must": true,
+        "mapx": 8298,
+        "mapy": 3844
+    },
+    "Double Team Zac & Jen": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Gyarados",
+            "Raichu"
+        ],
+        "must": false,
+        "mapx": 8172,
+        "mapy": 3766
+    },
+    "Ace Trainer Ernest": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Mothim",
+            "Luxio",
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 8091,
+        "mapy": 3639
+    },
+    "Ninja Boy Davido": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Dustox"
+        ],
+        "must": false,
+        "mapx": 7531,
+        "mapy": 3626
+    },
+    "Black Belt Adam": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Machoke"
+        ],
+        "must": true,
+        "mapx": 7835,
+        "mapy": 3863
+    },
+    "Ninja Boy Nathan": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Croagunk",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 7948,
+        "mapy": 3829
+    },
+    "Bird Keeper Brianna": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Hoothoot",
+            "Noctowl"
+        ],
+        "must": true,
+        "mapx": 7722,
+        "mapy": 3814
+    },
+    "Veteran Brian": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Buizel",
+            "Machoke",
+            "Girafarig"
+        ],
+        "must": false,
+        "mapx": 7450,
+        "mapy": 3754
+    },
+    "Dragon Tamer Patrick": {
+        "place": "Route 210 (North)",
+        "pokemon": [
+            "Gible"
+        ],
+        "must": false,
+        "mapx": 8522,
+        "mapy": 3690
+    },
+    "Galactic Grunt 16": {
+        "place": "Celestic Town",
+        "pokemon": [
+            "Beautifly",
+            "Croagunk"
+        ],
+        "must": true,
+        "mapx": 6954,
+        "mapy": 3672
+    },
+    "Bird Keeper Katherine": {
+        "place": "Route 211 (East)",
+        "pokemon": [
+            "Noctowl"
+        ],
+        "must": false,
+        "mapx": 6458,
+        "mapy": 3613
+    },
+    "Ruin Maniac Harry": {
+        "place": "Route 211 (East)",
+        "pokemon": [
+            "Bronzor"
+        ],
+        "must": false,
+        "mapx": 6409,
+        "mapy": 3679
+    },
+    "Ninja Boy Nick": {
+        "place": "Route 211 (East)",
+        "pokemon": [
+            "Skorupi",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 6346,
+        "mapy": 3614
+    },
+    "Black Belt Sean": {
+        "place": "Route 211 (East)",
+        "pokemon": [
+            "Croagunk",
+            "Machoke",
+            "Meditite"
+        ],
+        "must": false,
+        "mapx": 6450,
+        "mapy": 3871
+    },
+    "Ninja Boy Zach": {
+        "place": "Route 211 (West)",
+        "pokemon": [
+            "Zubat",
+            "Zubat",
+            "Zubat"
+        ],
+        "must": false,
+        "mapx": 5315,
+        "mapy": 3700
+    },
+    "Hiker Louis": {
+        "place": "Route 211 (West)",
+        "pokemon": [
+            "Geodude",
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 5557,
+        "mapy": 3744
+    },
+    "Bird Keeper Alexandra": {
+        "place": "Route 211 (West)",
+        "pokemon": [
+            "Hoothoot"
+        ],
+        "must": false,
+        "mapx": 5397,
+        "mapy": 3718
+    },
+    "Youngster Donny": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Gastly",
+            "Haunter"
+        ],
+        "must": false,
+        "mapx": 7296,
+        "mapy": 5297
+    },
+    "Lass Molly": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Misdreavus"
+        ],
+        "must": false,
+        "mapx": 7512,
+        "mapy": 5297
+    },
+    "Camper Drew": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Gastly",
+            "Gastly",
+            "Gastly"
+        ],
+        "must": false,
+        "mapx": 7015,
+        "mapy": 5062
+    },
+    "Picnicker Cheyenne": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Drifloon",
+            "Misdreavus"
+        ],
+        "must": false,
+        "mapx": 7512,
+        "mapy": 5062
+    },
+    "School Kid Mackenzie": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Drifloon",
+            "Drifloon"
+        ],
+        "must": false,
+        "mapx": 6998,
+        "mapy": 4825
+    },
+    "School Kid Chance": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Haunter"
+        ],
+        "must": false,
+        "mapx": 6782,
+        "mapy": 4824
+    },
+    "Ace Trainer Allen": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Gastly",
+            "Haunter",
+            "Gengar"
+        ],
+        "must": false,
+        "mapx": 6783,
+        "mapy": 4572
+    },
+    "Ace Trainer Catherine": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Misdreavus",
+            "Drifblim"
+        ],
+        "must": false,
+        "mapx": 6999,
+        "mapy": 4572
+    },
+    "Leader Fantina": {
+        "place": "Hearthome Gym",
+        "pokemon": [
+            "Drifblim",
+            "Mismagius",
+            "Gengar"
+        ],
+        "must": true,
+        "mapx": 7247,
+        "mapy": 4572
+    },
+    "Fisherman Miguel": {
+        "place": "Route 218",
+        "pokemon": [
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 1015,
+        "mapy": 6620
+    },
+    "Fisherman Luc": {
+        "place": "Route 218",
+        "pokemon": [
+            "Magikarp",
+            "Magikarp",
+            "Magikarp",
+            "Gyarados",
+            "Magikarp"
+        ],
+        "must": false,
+        "mapx": 1015,
+        "mapy": 6550
+    },
+    "Sailor Skyler": {
+        "place": "Route 218",
+        "pokemon": [
+            "Mantyke",
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 743,
+        "mapy": 6486
+    },
+    "Guitarist Tony": {
+        "place": "Route 218",
+        "pokemon": [
+            "Luxio"
+        ],
+        "must": false,
+        "mapx": 806,
+        "mapy": 6569
+    },
+    "Black Belt Ricky": {
+        "place": "Canalave Gym",
+        "pokemon": [
+            "Steelix"
+        ],
+        "must": true,
+        "mapx": 174,
+        "mapy": 5839
+    },
+    "Worker Gary": {
+        "place": "Canalave Gym",
+        "pokemon": [
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 381,
+        "mapy": 5826
+    },
+    "Worker Jackson": {
+        "place": "Canalave Gym",
+        "pokemon": [
+            "Onix",
+            "Onix",
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 253,
+        "mapy": 5394
+    },
+    "Ace Trainer Cesar": {
+        "place": "Canalave Gym",
+        "pokemon": [
+            "Skorupi",
+            "Steelix"
+        ],
+        "must": true,
+        "mapx": 461,
+        "mapy": 5939
+    },
+    "Worker Gerardo": {
+        "place": "Canalave Gym",
+        "pokemon": [
+            "Onix",
+            "Onix"
+        ],
+        "must": true,
+        "mapx": 158,
+        "mapy": 5050
+    },
+    "Black Belt David": {
+        "place": "Canalave Gym",
+        "pokemon": [
+            "Onix",
+            "Steelix"
+        ],
+        "must": true,
+        "mapx": 413,
+        "mapy": 5050
+    },
+    "Ace Trainer Breanna": {
+        "place": "Canalave Gym",
+        "pokemon": [
+            "Azumarill"
+        ],
+        "must": true,
+        "mapx": 461,
+        "mapy": 5415
+    },
+    "Leader Byron": {
+        "place": "Canalave Gym",
+        "pokemon": [
+            "Bronzor",
+            "Steelix",
+            "Bastiodon"
+        ],
+        "must": true,
+        "mapx": 286,
+        "mapy": 4705
+    },
+    "Galactic Grunt 17": {
+        "place": "Lake Valor",
+        "pokemon": [
+            "Glameow",
+            "Croagunk"
+        ],
+        "must": false,
+        "mapx": 10322,
+        "mapy": 6143
+    },
+    "Galactic Grunt 18": {
+        "place": "Lake Valor",
+        "pokemon": [
+            "Golbat",
+            "Croagunk"
+        ],
+        "must": false,
+        "mapx": 10131,
+        "mapy": 6305
+    },
+    "Galactic Grunt 19": {
+        "place": "Lake Valor",
+        "pokemon": [
+            "Croagunk",
+            "Beautifly",
+            "Dustox"
+        ],
+        "must": false,
+        "mapx": 10259,
+        "mapy": 6341
+    },
+    "Commander Saturn 1": {
+        "place": "Valor Cavern",
+        "pokemon": [
+            "Kadabra",
+            "Toxicroak",
+            "Bronzor"
+        ],
+        "must": true,
+        "mapx": 10370,
+        "mapy": 6303
+    },
+    "Galactic Grunt 20 & 21": {
+        "place": "Lake Verity",
+        "pokemon": [
+            "Glameow",
+            "Silcoon",
+            "Golbat",
+            "Glameow"
+        ],
+        "must": true,
+        "mapx": 815,
+        "mapy": 7490
+    },
+    "Galactic Grunt 22": {
+        "place": "Lake Verity",
+        "pokemon": [
+            "Stunky",
+            "Glameow"
+        ],
+        "must": false,
+        "mapx": 839,
+        "mapy": 7423
+    },
+    "Galactic Grunt 23": {
+        "place": "Lake Verity",
+        "pokemon": [
+            "Beautifly",
+            "Glameow"
+        ],
+        "must": false,
+        "mapx": 916,
+        "mapy": 7423
+    },
+    "Commander Mars 2": {
+        "place": "Lake Verity",
+        "pokemon": [
+            "Golbat",
+            "Bronzor",
+            "Purugly"
+        ],
+        "must": true,
+        "mapx": 948,
+        "mapy": 7359
+    },
+    "Skier Edward": {
+        "place": "Route 216",
+        "pokemon": [
+            "Sneasel"
+        ],
+        "must": false,
+        "mapx": 4550,
+        "mapy": 2790
+    },
+    "Ace Trainer Maria": {
+        "place": "Route 216",
+        "pokemon": [
+            "Golduck",
+            "Sudowoodo",
+            "Ponyta"
+        ],
+        "must": false,
+        "mapx": 4778,
+        "mapy": 2794
+    },
+    "Ace Trainer Laura": {
+        "place": "Route 216",
+        "pokemon": [
+            "Lopunny"
+        ],
+        "must": false,
+        "mapx": 5034,
+        "mapy": 2841
+    },
+    "Ace Trainer Blake": {
+        "place": "Route 216",
+        "pokemon": [
+            "Ambipom",
+            "Kadabra"
+        ],
+        "must": false,
+        "mapx": 5211,
+        "mapy": 2755
+    },
+    "Ace Trainer Garrett": {
+        "place": "Route 216",
+        "pokemon": [
+            "Mr. Mime",
+            "Machoke",
+            "Sneasel"
+        ],
+        "must": false,
+        "mapx": 4315,
+        "mapy": 2696
+    },
+    "Black Belt Philip": {
+        "place": "Route 216",
+        "pokemon": [
+            "Machoke",
+            "Machoke",
+            "Sneasel"
+        ],
+        "must": false,
+        "mapx": 4922,
+        "mapy": 2598
+    },
+    "Skier Bradley": {
+        "place": "Route 216",
+        "pokemon": [
+            "Geodude",
+            "Graveler",
+            "Snover"
+        ],
+        "must": false,
+        "mapx": 5059,
+        "mapy": 2598
+    },
+    "Skier Kaitlyn": {
+        "place": "Route 216",
+        "pokemon": [
+            "Roselia",
+            "Snover"
+        ],
+        "must": false,
+        "mapx": 5070,
+        "mapy": 2559
+    },
+    "Skier Andrea": {
+        "place": "Route 216",
+        "pokemon": [
+            "Staravia"
+        ],
+        "must": false,
+        "mapx": 5386,
+        "mapy": 2612
+    },
+    "Ace Trainer Dalton": {
+        "place": "Route 217",
+        "pokemon": [
+            "Raichu",
+            "Hippopotas",
+            "Pelipper"
+        ],
+        "must": true,
+        "mapx": 4443,
+        "mapy": 2394
+    },
+    "Ninja Boy Antonio": {
+        "place": "Route 217",
+        "pokemon": [
+            "Zubat",
+            "Croagunk",
+            "Zubat",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 4490,
+        "mapy": 2168
+    },
+    "Skier Shawn": {
+        "place": "Route 217",
+        "pokemon": [
+            "Snover",
+            "Golduck",
+            "Snover",
+            "Snover"
+        ],
+        "must": false,
+        "mapx": 4588,
+        "mapy": 2126
+    },
+    "Skier Madison": {
+        "place": "Route 217",
+        "pokemon": [
+            "Snover"
+        ],
+        "must": false,
+        "mapx": 4187,
+        "mapy": 2084
+    },
+    "Ninja Boy Ethan": {
+        "place": "Route 217",
+        "pokemon": [
+            "Skorupi",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 4171,
+        "mapy": 1796
+    },
+    "Skier Lexie": {
+        "place": "Route 217",
+        "pokemon": [
+            "Marill",
+            "Clefairy"
+        ],
+        "must": false,
+        "mapx": 4212,
+        "mapy": 1415
+    },
+    "Skier Bjorn": {
+        "place": "Route 217",
+        "pokemon": [
+            "Mantyke",
+            "Sneasel"
+        ],
+        "must": false,
+        "mapx": 4576,
+        "mapy": 1494
+    },
+    "Black Belt Luke": {
+        "place": "Route 217",
+        "pokemon": [
+            "Croagunk",
+            "Onix",
+            "Machoke"
+        ],
+        "must": false,
+        "mapx": 4186,
+        "mapy": 1271
+    },
+    "Ace Trainer Olivia": {
+        "place": "Route 217",
+        "pokemon": [
+            "Roselia",
+            "Seaking"
+        ],
+        "must": true,
+        "mapx": 4363,
+        "mapy": 1130
+    },
+    "Ace Trainer Sergio": {
+        "place": "Snowpoint Gym",
+        "pokemon": [
+            "Floatzel",
+            "Sneasel"
+        ],
+        "must": false,
+        "mapx": 5662,
+        "mapy": 468
+    },
+    "Ace Trainer Isaiah": {
+        "place": "Snowpoint Gym",
+        "pokemon": [
+            "Quagsire"
+        ],
+        "must": false,
+        "mapx": 5869,
+        "mapy": 402
+    },
+    "Ace Trainer Brenna": {
+        "place": "Snowpoint Gym",
+        "pokemon": [
+            "Snover"
+        ],
+        "must": false,
+        "mapx": 5725,
+        "mapy": 416
+    },
+    "Ace Trainer Alicia": {
+        "place": "Snowpoint Gym",
+        "pokemon": [
+            "Sneasel",
+            "Tentacruel"
+        ],
+        "must": false,
+        "mapx": 5742,
+        "mapy": 296
+    },
+    "Ace Trainer Anton": {
+        "place": "Snowpoint Gym",
+        "pokemon": [
+            "Snover"
+        ],
+        "must": false,
+        "mapx": 5885,
+        "mapy": 282
+    },
+    "Ace Trainer Savannah": {
+        "place": "Snowpoint Gym",
+        "pokemon": [
+            "Pelipper",
+            "Golduck",
+            "Steelix"
+        ],
+        "must": false,
+        "mapx": 5956,
+        "mapy": 344
+    },
+    "Leader Candice": {
+        "place": "Snowpoint Gym",
+        "pokemon": [
+            "Snover",
+            "Abomasnow",
+            "Sneasel",
+            "Medicham"
+        ],
+        "must": true,
+        "mapx": 5821,
+        "mapy": 247
+    },
+    "Galactic Grunt 24": {
+        "place": "Galactic Warehouse",
+        "pokemon": [
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 9490,
+        "mapy": 4227
+    },
+    "Galactic Grunt 25": {
+        "place": "Galactic Warehouse",
+        "pokemon": [
+            "Dustox",
+            "Bronzor"
+        ],
+        "must": true,
+        "mapx": 9986,
+        "mapy": 4165
+    },
+    "Galactic Grunt 26": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Glameow"
+        ],
+        "must": false,
+        "mapx": 11130,
+        "mapy": 4095
+    },
+    "Galactic Grunt 27": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Wurmple",
+            "Dustox",
+            "Cascoon"
+        ],
+        "must": false,
+        "mapx": 10633,
+        "mapy": 3769
+    },
+    "Galactic Grunt 28": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Stunky"
+        ],
+        "must": false,
+        "mapx": 10539,
+        "mapy": 3457
+    },
+    "Galactic Grunt 29": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Bronzor",
+            "Stunky"
+        ],
+        "must": false,
+        "mapx": 10699,
+        "mapy": 3631
+    },
+    "Scientist Fredrick": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Kadabra",
+            "Kadabra"
+        ],
+        "must": false,
+        "mapx": 10747,
+        "mapy": 4078
+    },
+    "Galactic Grunt 30": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Golbat",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 10810,
+        "mapy": 3882
+    },
+    "Galactic Grunt 31": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Golbat",
+            "Silcoon"
+        ],
+        "must": false,
+        "mapx": 10891,
+        "mapy": 3882
+    },
+    "Scientist Darrius": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Kadabra"
+        ],
+        "must": false,
+        "mapx": 10987,
+        "mapy": 3766
+    },
+    "Galactic Grunt 32": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Croagunk",
+            "Stunky",
+            "Glameow"
+        ],
+        "must": true,
+        "mapx": 11145,
+        "mapy": 3421
+    },
+    "Galactic Grunt 33": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Stunky",
+            "Croagunk"
+        ],
+        "must": true,
+        "mapx": 11145,
+        "mapy": 3471
+    },
+    "Galactic Boss Cyrus 1": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Murkrow",
+            "Golbat",
+            "Sneasel"
+        ],
+        "must": true,
+        "mapx": 10603,
+        "mapy": 3222
+    },
+    "Commander Saturn 2": {
+        "place": "Team Galactic HQ",
+        "pokemon": [
+            "Kadabra",
+            "Toxicroak",
+            "Bronzor"
+        ],
+        "must": true,
+        "mapx": 11434,
+        "mapy": 3049
+    },
+    "Galactic Grunt 34": {
+        "place": "Mt. Coronet (3F)",
+        "pokemon": [
+            "Beautifly"
+        ],
+        "must": false,
+        "mapx": 5394,
+        "mapy": 5244
+    },
+    "Galactic Grunt 35": {
+        "place": "Mt. Coronet (3F)",
+        "pokemon": [
+            "Bronzor"
+        ],
+        "must": false,
+        "mapx": 5230,
+        "mapy": 5314
+    },
+    "Galactic Grunt 36": {
+        "place": "Mt. Coronet (4F)",
+        "pokemon": [
+            "Dustox",
+            "Dustox",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 8263,
+        "mapy": 1901
+    },
+    "Galactic Grunt 37": {
+        "place": "Mt. Coronet (4F)",
+        "pokemon": [
+            "Stunky",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 8432,
+        "mapy": 1887
+    },
+    "Galactic Grunt 38": {
+        "place": "Mt. Coronet (Summit Tunnel)",
+        "pokemon": [
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 8770,
+        "mapy": 2236
+    },
+    "Galactic Grunt 39": {
+        "place": "Mt. Coronet (Summit Tunnel)",
+        "pokemon": [
+            "Wurmple",
+            "Beautifly",
+            "Silcoon"
+        ],
+        "must": false,
+        "mapx": 9063,
+        "mapy": 2144
+    },
+    "Galactic Grunt 40": {
+        "place": "Mt. Coronet (Summit Tunnel)",
+        "pokemon": [
+            "Croagunk",
+            "Croagunk",
+            "Stunky"
+        ],
+        "must": false,
+        "mapx": 8995,
+        "mapy": 1853
+    },
+    "Galactic Grunt 41": {
+        "place": "Mt. Coronet (5F)",
+        "pokemon": [
+            "Bronzor",
+            "Glameow"
+        ],
+        "must": true,
+        "mapx": 8004,
+        "mapy": 2553
+    },
+    "Galactic Grunt 42": {
+        "place": "Mt. Coronet (5F)",
+        "pokemon": [
+            "Bronzor",
+            "Golbat"
+        ],
+        "must": true,
+        "mapx": 7911,
+        "mapy": 2605
+    },
+    "Galactic Grunt 43": {
+        "place": "Mt. Coronet (6F)",
+        "pokemon": [
+            "Golbat",
+            "Glameow",
+            "Bronzor"
+        ],
+        "must": true,
+        "mapx": 7609,
+        "mapy": 2500
+    },
+    "Galactic Grunt 44 & 45": {
+        "place": "Spear Pillar",
+        "pokemon": [
+            "Dustox",
+            "Stunky",
+            "Glameow",
+            "Croagunk"
+        ],
+        "must": true,
+        "mapx": 7565,
+        "mapy": 2131
+    },
+    "Commander Mars & Commander Jupiter": {
+        "place": "Spear Pillar",
+        "pokemon": [
+            "Bronzor",
+            "Bronzor",
+            "Skuntank",
+            "Purugly",
+            "Golbat",
+            "Golbat"
+        ],
+        "must": true,
+        "mapx": 7565,
+        "mapy": 1933
+    },
+    "Galactic Boss Cyrus 2": {
+        "place": "Spear Pillar",
+        "pokemon": [
+            "Honchkrow",
+            "Gyarados",
+            "Weavile",
+            "Crobat"
+        ],
+        "must": true,
+        "mapx": 7565,
+        "mapy": 1882
+    },
+    "Worker Dillan": {
+        "place": "Fuego Ironworks",
+        "pokemon": [
+            "Machop",
+            "Machoke"
+        ],
+        "must": false,
+        "mapx": 1291,
+        "mapy": 4424
+    },
+    "Worker Holden": {
+        "place": "Fuego Ironworks",
+        "pokemon": [
+            "Steelix"
+        ],
+        "must": false,
+        "mapx": 1659,
+        "mapy": 4411
+    },
+    "Worker Conrad": {
+        "place": "Fuego Ironworks",
+        "pokemon": [
+            "Rapidash"
+        ],
+        "must": false,
+        "mapx": 1804,
+        "mapy": 4646
+    },
+    "Camper Lawrence": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Luxio",
+            "Stunky"
+        ],
+        "must": false,
+        "mapx": 905,
+        "mapy": 3352
+    },
+    "Picnicker Summer": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Staravia",
+            "Cherrim"
+        ],
+        "must": false,
+        "mapx": 1550,
+        "mapy": 3391
+    },
+    "Worker Willy": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Onix",
+            "Graveler"
+        ],
+        "must": false,
+        "mapx": 1788,
+        "mapy": 3613
+    },
+    "Worker Braden": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Graveler"
+        ],
+        "must": false,
+        "mapx": 1686,
+        "mapy": 3747
+    },
+    "Hiker Damon": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Zubat",
+            "Onix",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 1013,
+        "mapy": 3586
+    },
+    "Hiker Maurice": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Graveler",
+            "Machoke"
+        ],
+        "must": false,
+        "mapx": 934,
+        "mapy": 3610
+    },
+    "Worker Brendon": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Onix",
+            "Steelix"
+        ],
+        "must": false,
+        "mapx": 837,
+        "mapy": 3870
+    },
+    "Worker Quentin": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Geodude",
+            "Graveler",
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 821,
+        "mapy": 3904
+    },
+    "Black Belt Kendal": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Croagunk"
+        ],
+        "must": false,
+        "mapx": 1174,
+        "mapy": 3783
+    },
+    "Battle Girl Tyler": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Medicham"
+        ],
+        "must": false,
+        "mapx": 1174,
+        "mapy": 3818
+    },
+    "Ace Trainer Jonah": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Ponyta",
+            "Haunter",
+            "Floatzel"
+        ],
+        "must": false,
+        "mapx": 966,
+        "mapy": 3932
+    },
+    "Ace Trainer Brenda": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Pelipper",
+            "Sudowoodo"
+        ],
+        "must": false,
+        "mapx": 1030,
+        "mapy": 3932
+    },
+    "Galactic Grunts 46 & 47": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Zubat",
+            "Glameow",
+            "Croagunk",
+            "Zubat",
+            "Stunky",
+            "Golbat"
+        ],
+        "must": false,
+        "mapx": 901,
+        "mapy": 4043
+    },
+    "Riley": {
+        "place": "Iron Island",
+        "pokemon": [
+            "Lucario"
+        ],
+        "must": false,
+        "mapx": 1141,
+        "mapy": 3509
+    },
+    "Picnicker Tori": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Silcoon",
+            "Beautifly"
+        ],
+        "must": false,
+        "mapx": 4738,
+        "mapy": 4528
+    },
+    "Camper Diego": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Cascoon",
+            "Dustox"
+        ],
+        "must": false,
+        "mapx": 4688,
+        "mapy": 4528
+    },
+    "Youngster Wayne": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Bidoof",
+            "Aipom",
+            "Zubat"
+        ],
+        "must": false,
+        "mapx": 4737,
+        "mapy": 4890
+    },
+    "Lass Cassidy": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Buneary"
+        ],
+        "must": false,
+        "mapx": 4690,
+        "mapy": 4890
+    },
+    "Hiker Lorenzo": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Onix"
+        ],
+        "must": false,
+        "mapx": 4979,
+        "mapy": 4845
+    },
+    "Hiker Reginald": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Geodude",
+            "Machop"
+        ],
+        "must": false,
+        "mapx": 4928,
+        "mapy": 4845
+    },
+    "Picnicker Ana": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Meditite"
+        ],
+        "must": false,
+        "mapx": 5824,
+        "mapy": 4730
+    },
+    "Camper Parker": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Buizel",
+            "Shinx"
+        ],
+        "must": false,
+        "mapx": 5892,
+        "mapy": 4730
+    },
+    "Ruin Maniac Gerald": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Geodude",
+            "Bronzor"
+        ],
+        "must": false,
+        "mapx": 6145,
+        "mapy": 4946
+    },
+    "Collector Terry": {
+        "place": "Wayward Cave",
+        "pokemon": [
+            "Gastly",
+            "Gastly",
+            "Gastly"
+        ],
+        "must": false,
+        "mapx": 6115,
+        "mapy": 4946
+    },
+    "Tuber Mariel": {
+        "place": "Route 219",
+        "pokemon": [
+            "Marill",
+            "Marill"
+        ],
+        "must": false,
+        "mapx": 2340,
+        "mapy": 8238
+    },
+    "Tuber Trenton": {
+        "place": "Route 219",
+        "pokemon": [
+            "Shellos",
+            "Shellos"
+        ],
+        "must": false,
+        "mapx": 2299,
+        "mapy": 8238
+    },
+    "Swimmer Jessica": {
+        "place": "Route 220",
+        "pokemon": [
+            "Goldeen",
+            "Goldeen",
+            "Goldeen",
+            "Goldeen"
+        ],
+        "must": false,
+        "mapx": 2244,
+        "mapy": 8464
+    },
+    "Swimmer Erica": {
+        "place": "Route 220",
+        "pokemon": [
+            "Remoraid",
+            "Psyduck"
+        ],
+        "must": false,
+        "mapx": 2274,
+        "mapy": 8488
+    },
+    "Swimmer Adrian": {
+        "place": "Route 220",
+        "pokemon": [
+            "Mantyke",
+            "Remoraid",
+            "Tentacool"
+        ],
+        "must": false,
+        "mapx": 2484,
+        "mapy": 8624
+    },
+    "Swimmer Vincent": {
+        "place": "Route 220",
+        "pokemon": [
+            "Pelipper",
+            "Whiscash"
+        ],
+        "must": false,
+        "mapx": 2599,
+        "mapy": 8540
+    },
+    "Swimmer Claire": {
+        "place": "Route 220",
+        "pokemon": [
+            "Buizel"
+        ],
+        "must": false,
+        "mapx": 2899,
+        "mapy": 8537
+    },
+    "Swimmer Erik": {
+        "place": "Route 220",
+        "pokemon": [
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 2899,
+        "mapy": 8610
+    },
+    "Swimmer Katelyn": {
+        "place": "Route 220",
+        "pokemon": [
+            "Buizel",
+            "Medicham",
+            "Seaking"
+        ],
+        "must": false,
+        "mapx": 2737,
+        "mapy": 8439
+    },
+    "Swimmer Dillon": {
+        "place": "Route 221",
+        "pokemon": [
+            "Shellos",
+            "Gastrodon"
+        ],
+        "must": false,
+        "mapx": 3282,
+        "mapy": 8549
+    },
+    "Swimmer Vanessa": {
+        "place": "Route 221",
+        "pokemon": [
+            "Golduck"
+        ],
+        "must": false,
+        "mapx": 3315,
+        "mapy": 8673
+    },
+    "Fisherman Cory": {
+        "place": "Route 221",
+        "pokemon": [
+            "Magikarp",
+            "Finneon",
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 3523,
+        "mapy": 8631
+    },
+    "Ace Trainer Shannon": {
+        "place": "Route 221",
+        "pokemon": [
+            "Cherrim",
+            "Lopunny",
+            "Marill"
+        ],
+        "must": false,
+        "mapx": 3955,
+        "mapy": 8678
+    },
+    "Ace Trainer Jake": {
+        "place": "Route 221",
+        "pokemon": [
+            "Staravia",
+            "Girafarig"
+        ],
+        "must": false,
+        "mapx": 4403,
+        "mapy": 8607
+    },
+    "Collector Ivan": {
+        "place": "Route 221",
+        "pokemon": [
+            "Hippopotas",
+            "Hippopotas",
+            "Hippopotas"
+        ],
+        "must": false,
+        "mapx": 4131,
+        "mapy": 8572
+    },
+    "Rich Boy Trey": {
+        "place": "Route 222",
+        "pokemon": [
+            "Luxio"
+        ],
+        "must": false,
+        "mapx": 11562,
+        "mapy": 6910
+    },
+    "Beauty Nicola": {
+        "place": "Route 222",
+        "pokemon": [
+            "Lopunny"
+        ],
+        "must": false,
+        "mapx": 11882,
+        "mapy": 6850
+    },
+    "Sailor Marc": {
+        "place": "Route 222",
+        "pokemon": [
+            "Mantyke"
+        ],
+        "must": false,
+        "mapx": 12476,
+        "mapy": 6897
+    },
+    "Tuber Conner": {
+        "place": "Route 222",
+        "pokemon": [
+            "Remoraid"
+        ],
+        "must": false,
+        "mapx": 12538,
+        "mapy": 6897
+    },
+    "Sailor Luther": {
+        "place": "Route 222",
+        "pokemon": [
+            "Feebas",
+            "Machoke",
+            "Gastrodon"
+        ],
+        "must": true,
+        "mapx": 12570,
+        "mapy": 6948
+    },
+    "Tuber Holly": {
+        "place": "Route 222",
+        "pokemon": [
+            "Remoraid"
+        ],
+        "must": false,
+        "mapx": 12138,
+        "mapy": 6994
+    },
+    "Fisherman Alec": {
+        "place": "Route 222",
+        "pokemon": [
+            "Magikarp",
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 11722,
+        "mapy": 7007
+    },
+    "Fisherman George": {
+        "place": "Route 222",
+        "pokemon": [
+            "Magikarp",
+            "Gyarados",
+            "Remoraid",
+            "Finneon"
+        ],
+        "must": false,
+        "mapx": 11850,
+        "mapy": 7007
+    },
+    "Fisherman Brett": {
+        "place": "Route 222",
+        "pokemon": [
+            "Magikarp",
+            "Finneon",
+            "Feebas"
+        ],
+        "must": false,
+        "mapx": 11978,
+        "mapy": 7020
+    },
+    "Fisherman Cole": {
+        "place": "Route 222",
+        "pokemon": [
+            "Gyarados",
+            "Gyarados",
+            "Remoraid"
+        ],
+        "must": false,
+        "mapx": 12058,
+        "mapy": 7020
+    },
+    "Poke Kid Janet": {
+        "place": "Route 222",
+        "pokemon": [
+            "Pikachu",
+            "Pikachu"
+        ],
+        "must": false,
+        "mapx": 12268,
+        "mapy": 6938
+    },
+    "School Kid Tiera": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Pachirisu"
+        ],
+        "must": true,
+        "mapx": 13585,
+        "mapy": 6170
+    },
+    "School Kid Forrest": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Mr. Mime"
+        ],
+        "must": true,
+        "mapx": 13538,
+        "mapy": 5903
+    },
+    "Guitarist Jerry": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Luxio"
+        ],
+        "must": true,
+        "mapx": 13697,
+        "mapy": 5976
+    },
+    "Poke Kid Meghan": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Pikachu",
+            "Pikachu",
+            "Pikachu",
+            "Pikachu"
+        ],
+        "must": false,
+        "mapx": 13666,
+        "mapy": 5862
+    },
+    "Guitarist Lonnie": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Raichu"
+        ],
+        "must": false,
+        "mapx": 13698,
+        "mapy": 5755
+    },
+    "Ace Trainer Destiny": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Kadabra",
+            "Raichu"
+        ],
+        "must": true,
+        "mapx": 13150,
+        "mapy": 5818
+    },
+    "Guitarist Preston": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Luxio",
+            "Bibarel"
+        ],
+        "must": true,
+        "mapx": 13490,
+        "mapy": 5446
+    },
+    "Ace Trainer Zachery": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Steelix",
+            "Medicham"
+        ],
+        "must": true,
+        "mapx": 13779,
+        "mapy": 5565
+    },
+    "Leader Volkner": {
+        "place": "Sunyshore Gym",
+        "pokemon": [
+            "Raichu",
+            "Luxray",
+            "Ambipom",
+            "Octillery"
+        ],
+        "must": true,
+        "mapx": 13618,
+        "mapy": 5446
+    },
+    "Swimmer Miranda": {
+        "place": "Route 223",
+        "pokemon": [
+            "Lumineon"
+        ],
+        "must": false,
+        "mapx": 13160,
+        "mapy": 6198
+    },
+    "Swimmer Aubree": {
+        "place": "Route 223",
+        "pokemon": [
+            "Azurill",
+            "Azumarill"
+        ],
+        "must": false,
+        "mapx": 13162,
+        "mapy": 6098
+    },
+    "Swimmer Oscar": {
+        "place": "Route 223",
+        "pokemon": [
+            "Mantyke",
+            "Remoraid",
+            "Mantine"
+        ],
+        "must": true,
+        "mapx": 13051,
+        "mapy": 5888
+    },
+    "Swimmer Paige": {
+        "place": "Route 223",
+        "pokemon": [
+            "Marill",
+            "Golduck",
+            "Wingull"
+        ],
+        "must": false,
+        "mapx": 13097,
+        "mapy": 5774
+    },
+    "Swimmer Colton": {
+        "place": "Route 223",
+        "pokemon": [
+            "Wingull",
+            "Quagsire",
+            "Pelipper"
+        ],
+        "must": false,
+        "mapx": 13212,
+        "mapy": 5774
+    },
+    "Swimmer Ricardo": {
+        "place": "Route 223",
+        "pokemon": [
+            "Tentacruel"
+        ],
+        "must": false,
+        "mapx": 13050,
+        "mapy": 5688
+    },
+    "Swimmer Crystal": {
+        "place": "Route 223",
+        "pokemon": [
+            "Wingull",
+            "Seaking"
+        ],
+        "must": false,
+        "mapx": 13158,
+        "mapy": 5515
+    },
+    "Swimmer Wesley": {
+        "place": "Route 223",
+        "pokemon": [
+            "Buizel",
+            "Tentacruel"
+        ],
+        "must": false,
+        "mapx": 12937,
+        "mapy": 5468
+    },
+    "Sailor Zachariah": {
+        "place": "Route 223",
+        "pokemon": [
+            "Pelipper",
+            "Machoke",
+            "Gastrodon"
+        ],
+        "must": false,
+        "mapx": 13099,
+        "mapy": 5352
+    },
+    "Swimmer Gabrielle": {
+        "place": "Route 223",
+        "pokemon": [
+            "Golduck"
+        ],
+        "must": false,
+        "mapx": 13036,
+        "mapy": 5192
+    },
+    "Swimmer Cassandra": {
+        "place": "Route 223",
+        "pokemon": [
+            "Finneon",
+            "Pelipper"
+        ],
+        "must": false,
+        "mapx": 13115,
+        "mapy": 5150
+    },
+    "Swimmer Troy": {
+        "place": "Route 223",
+        "pokemon": [
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 13106,
+        "mapy": 4948
+    },
+    "Psychic Bruce": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Haunter",
+            "Gengar",
+            "Alakazam"
+        ],
+        "must": false,
+        "mapx": 12088,
+        "mapy": 4667
+    },
+    "Bird Keeper Hana": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Noctowl",
+            "Staraptor"
+        ],
+        "must": false,
+        "mapx": 12472,
+        "mapy": 4509
+    },
+    "Ace Trainer Mariah": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Golduck",
+            "Blissey"
+        ],
+        "must": true,
+        "mapx": 12135,
+        "mapy": 4310
+    },
+    "Ace Trainer Omar": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Rapidash",
+            "Carnivine",
+            "Rampardos"
+        ],
+        "must": true,
+        "mapx": 11944,
+        "mapy": 3593
+    },
+    "Ace Trainer Sydney": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Clefable",
+            "Torterra"
+        ],
+        "must": true,
+        "mapx": 12105,
+        "mapy": 3714
+    },
+    "Veteran Clayton": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Staraptor",
+            "Hippowdown"
+        ],
+        "must": false,
+        "mapx": 12232,
+        "mapy": 3617
+    },
+    "Double Team Al & Kay": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Staraptor",
+            "Whiscash"
+        ],
+        "must": false,
+        "mapx": 12776,
+        "mapy": 3498
+    },
+    "Black Belt Miles": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Machamp"
+        ],
+        "must": true,
+        "mapx": 12454,
+        "mapy": 4320
+    },
+    "Psychic Valencia": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Chingling",
+            "Chimecho"
+        ],
+        "must": true,
+        "mapx": 12536,
+        "mapy": 5178
+    },
+    "Double Team Jo & Pat": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Gyarados",
+            "Medicham"
+        ],
+        "must": false,
+        "mapx": 12662,
+        "mapy": 5311
+    },
+    "Ace Trainer Henry": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Honchkrow"
+        ],
+        "must": false,
+        "mapx": 12694,
+        "mapy": 5025
+    },
+    "Dragon Tamer Ondrej": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Gabite"
+        ],
+        "must": true,
+        "mapx": 12342,
+        "mapy": 4852
+    },
+    "Veteran Edgar": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Tentacruel",
+            "Golem",
+            "Empoleon"
+        ],
+        "must": true,
+        "mapx": 12408,
+        "mapy": 4124
+    },
+    "Dragon Tamer Clinton": {
+        "place": "Victory Road",
+        "pokemon": [
+            "Gible",
+            "Gible",
+            "Gyarados"
+        ],
+        "must": true,
+        "mapx": 12616,
+        "mapy": 4158
+    },
+    "Elite Four Aaron": {
+        "place": "Pokemon League",
+        "pokemon": [
+            "Dustox",
+            "Heracross",
+            "Vespiqueen",
+            "Drapion",
+            "Beautifly"
+        ],
+        "must": true,
+        "mapx": 13106,
+        "mapy": 3656
+    },
+    "Elite Four Bertha": {
+        "place": "Pokemon League",
+        "pokemon": [
+            "Quagsire",
+            "Hippowdown",
+            "Golem",
+            "Whiscash",
+            "Sudowoodo"
+        ],
+        "must": true,
+        "mapx": 13106,
+        "mapy": 3473
+    },
+    "Elite Four Flint": {
+        "place": "Pokemon League",
+        "pokemon": [
+            "Rapidash",
+            "Infernape",
+            "Lopunny",
+            "Steelix",
+            "Drifblim"
+        ],
+        "must": true,
+        "mapx": 13106,
+        "mapy": 3290
+    },
+    "Elite Four Lucian": {
+        "place": "Pokemon League",
+        "pokemon": [
+            "Mr. Mime",
+            "Medicham",
+            "Alakazam",
+            "Bronzong",
+            "Girafarig"
+        ],
+        "must": true,
+        "mapx": 13106,
+        "mapy": 3112
+    },
+    "Champion Cynthia": {
+        "place": "Pokemon League",
+        "pokemon": [
+            "Spiritomb",
+            "Gastrodon",
+            "Lucario",
+            "Milotic",
+            "Roserade",
+            "Garchomp"
+        ],
+        "must": true,
+        "mapx": 13106,
+        "mapy": 2924
+    }
+}

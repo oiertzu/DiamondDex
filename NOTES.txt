@@ -1,0 +1,28 @@
+Ways to obtain pokemon not used but documented:
+	Honey trees
+	Fossiles
+	In-game trades
+
+
+
+NOTES:
+
+	* Scrolling through the professor's bag doesnt register starters.
+
+	* Catching tutorial does not add third starter to dex.
+
+	* Coop fights (Lucas/Dawn, Rival, Cheryl and Riley) register their pokemon.
+		- Although they may use more, only the first is registered obligatorily.
+		- The firsties of Cheryl and Lucas/Dawn apart from the third starter (Clefairy) and Rival (Munchlax) are added in depends. Also Dialga. Why? Because.
+
+	* Pshychic Abigail (Route 214) is set to must because otherwise another trainer in route 212 would be and Abigail is better. Prove me wrong.
+
+	* Galactic Grunts 30 and 31 in Galactic HQ: One of either has to be fought. They have no unique must pokemon.
+
+	* Golbat outside Mt. Coronet Summit only appears at night, but I didnt wanna complicate info.
+
+
+
+NOTES ON ROUTE:
+
+	* Turtwig sucks because you need to go to Route 212 to see Prinplup. Chimchar and Piplup have the same pokemon to see, 1 less than Turtwig.

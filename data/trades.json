@@ -1,0 +1,14 @@
+{
+    "Abra": {
+        "place": "Oreburgh City",
+        "give": "Machop"
+    },
+    "Chatot": {
+        "place": "Eterna City",
+        "give": "Buizel"
+    },
+    "Haunter": {
+        "place": "Snowpoint City",
+        "give": "Medicham"
+    }
+}

@@ -1,0 +1,931 @@
+{
+    "Route 201": {
+        "Ground": {
+            "Starly": "",
+            "Bidoof": ""
+        }
+    },
+    "Route 202": {
+        "Ground": {
+            "Starly": "",
+            "Bidoof": "",
+            "Kricketot": "Morning, Night"
+        }
+    },
+    "Route 203": {
+        "Ground": {
+            "Starly": "",
+            "Bidoof": "",
+            "Shinx": "",
+            "Abra": "",
+            "Kricketot": "Morning, Night",
+            "Zubat": "Night"
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Route 204": {
+        "Ground": {
+            "Starly": "",
+            "Bidoof": "",
+            "Shinx": "",
+            "Budew": "",
+            "Kricketot": "Morning, Night",
+            "Zubat": "Night"
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Route 205 (North)": {
+        "Ground": {
+            "Buizel": "",
+            "Bidoof": "",
+            "Shellos": "",
+            "Pachirisu": ""
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Route 205 (South)": {
+        "Ground": {
+            "Buizel": "",
+            "Bidoof": "",
+            "Shellos": "",
+            "Pachirisu": ""
+        },
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Finneon": ""
+        }
+    },
+    "Route 206": {
+        "Ground": {
+            "Stunky": "",
+            "Geodude": "",
+            "Ponyta": "",
+            "Bronzor": "",
+            "Kricketune": "",
+            "Kricketot": "Morning",
+            "Zubat": "Night"
+        }
+    },
+    "Route 207": {
+        "Ground": {
+            "Geodude": "",
+            "Machop": "",
+            "Kricketot": "Morning, Night",
+            "Zubat": "Night"
+        }
+    },
+    "Route 208": {
+        "Ground": {
+            "Psyduck": "",
+            "Bidoof": "",
+            "Bibarel": "",
+            "Meditite": "",
+            "Machop": "",
+            "Zubat": "Night"
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Route 209": {
+        "Ground": {
+            "Starly": "",
+            "Staravia": "",
+            "Bibarel": "",
+            "Mime Jr.": "",
+            "Chansey": "",
+            "Gastly": "Night",
+            "Zubat": "Night",
+            "Spiritomb": "Hallowed Tower"
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Route 210 (North)": {
+        "Ground": {
+            "Meditite": "",
+            "Psyduck": "",
+            "Bibarel": "",
+            "Machop": "",
+            "Machoke": "",
+            "Hoothoot": "Night",
+            "Noctowl": "Night"
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Route 210 (South)": {
+        "Ground": {
+            "Ponyta": "",
+            "Geodude": "",
+            "Kricketune": "",
+            "Mime Jr.": "",
+            "Chansey": ""
+        }
+    },
+    "Route 211 (East)": {
+        "Ground": {
+            "Meditite": "",
+            "Graveler": "",
+            "Machoke": "",
+            "Chingling": "",
+            "Ponyta": "",
+            "Zubat": "Night",
+            "Noctowl": "Night"
+        }
+    },
+    "Route 211 (West)": {
+        "Ground": {
+            "Meditite": "",
+            "Bidoof": "",
+            "Geodude": "",
+            "Ponyta": "",
+            "Chingling": "",
+            "Zubat": "Night",
+            "Hoothoot": "Night"
+        }
+    },
+    "Route 212 (North)": {
+        "Ground": {
+            "Starly": "",
+            "Staravia": "",
+            "Kricketune": "",
+            "Budew": "",
+            "Roselia": ""
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Route 212 (South)": {
+        "Ground": {
+            "Wooper": "",
+            "Bibarel": "",
+            "Kricketune": "",
+            "Roselia": ""
+        },
+        "Surf": {
+            "Wooper": "",
+            "Quagsire": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Route 213": {
+        "Ground": {
+            "Buizel": "",
+            "Shellos": "",
+            "Wingull": "",
+            "Floatzel": ""
+        },
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Remoraid": ""
+        }
+    },
+    "Route 214": {
+        "Ground": {
+            "Ponyta": "",
+            "Geodude": "",
+            "Stunky": "",
+            "Girafarig": "",
+            "Graveler": "",
+            "Kricketune": ""
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Route 215": {
+        "Ground": {
+            "Ponyta": "",
+            "Geodude": "",
+            "Kricketune": "",
+            "Abra": "",
+            "Kadabra": ""
+        }
+    },
+    "Route 216": {
+        "Ground": {
+            "Snover": "",
+            "Sneasel": "",
+            "Meditite": "",
+            "Machoke": "",
+            "Graveler": "",
+            "Zubat": "Night",
+            "Noctowl": "Night"
+        }
+    },
+    "Route 217": {
+        "Ground": {
+            "Snover": "",
+            "Sneasel": "",
+            "Machoke": "",
+            "Meditite": "Morning, Day",
+            "Medicham": "",
+            "Zubat": "Night",
+            "Noctowl": "Night"
+        }
+    },
+    "Route 218": {
+        "Ground": {
+            "Floatzel": "",
+            "Shellos": "",
+            "Gastrodon": "",
+            "Mr. Mime": "",
+            "Wingull": ""
+        },
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Finneon": ""
+        }
+    },
+    "Route 219": {
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Finneon": ""
+        }
+    },
+    "Route 220": {
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Finneon": ""
+        }
+    },
+    "Route 221": {
+        "Ground": {
+            "Stunky": "",
+            "Gastrodon": "",
+            "Skuntank": "",
+            "Floatzel": "",
+            "Roselia": "",
+            "Shellos": "",
+            "Wingull": ""
+        }
+    },
+    "Route 222": {
+        "Ground": {
+            "Floatzel": "",
+            "Gastrodon": "",
+            "Mr. Mime": "",
+            "Wingull": "",
+            "Chatot": "Morning, Day"
+        },
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Remoraid": ""
+        }
+    },
+    "Route 223": {
+        "Surf": {
+            "Tentacruel": "",
+            "Pelipper": "",
+            "Mantyke": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Remoraid": ""
+        }
+    },
+    "Acuity Cavern": {
+        "Ground": {
+            "Uxie": ""
+        }
+    },
+    "Acuity Lakefront": {
+        "Ground": {
+            "Snover": "",
+            "Sneasel": "",
+            "Machoke": "",
+            "Meditite": "Morning, Day",
+            "Medicham": "",
+            "Zubat": "Night",
+            "Noctowl": "Night"
+        }
+    },
+    "Canalave City": {
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Finneon": ""
+        }
+    },
+    "Celestic Town": {
+        "Ground": {
+            "Palkia": "Grandma (After Spear Pillar)"
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Eterna City": {
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Eterna Forest": {
+        "Ground": {
+            "Wurmple": "",
+            "Silcoon": "",
+            "Beautifly": "",
+            "Buneary": "",
+            "Budew": "",
+            "Murkrow": "Night"
+        }
+    },
+    "Fuego Ironworks": {
+        "Ground": {
+            "Floatzel": "",
+            "Shellos": "",
+            "Shinx": "",
+            "Luxio": "",
+            "Wingull": "",
+            "Gastrodon": "",
+            "Pachirisu": ""
+        },
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Finneon": ""
+        }
+    },
+    "Great Marsh": {
+        "Ground": {
+            "Wooper": "",
+            "Bibarel": "",
+            "Marill": "",
+            "Quagsire": "",
+            "Bidoof": "",
+            "Azurill": "",
+            "Budew": "Morning, Day",
+            "Starly": "Morning, Day",
+            "Psyduck": "Except Zone 5",
+            "Hoothoot": "Night",
+            "Noctowl": "Night, Zones 1 & 2",
+            "Croagunk": "Daily",
+            "Skorupi": "Daily",
+            "Carnivine": "Daily",
+            "Golduck": "Daily",
+            "Roselia": "Daily",
+            "Staravia": "Daily"
+        },
+        "Surf": {
+            "Wooper": "",
+            "Marill": "",
+            "Quagsire": "",
+            "Psyduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": "",
+            "Gyarados": ""
+        }
+    },
+    "Hearthome City": {
+        "Ground": {
+            "Happiny": "Egg"
+        }
+    },
+    "Iron Island": {
+        "Ground": {
+            "Geodude": "",
+            "Graveler": "",
+            "Zubat": "1F",
+            "Golbat": "",
+            "Onix": "",
+            "Steelix": "B2F West (Riley room), B3F",
+            "Riolu": "Egg"
+        },
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Finneon": ""
+        }
+    },
+    "Lake Acuity": {
+        "Ground": {
+            "Bibarel": "",
+            "Psyduck": "",
+            "Sneasel": "",
+            "Chingling": "",
+            "Noctowl": "Night"
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Lake Valor": {
+        "Ground": {
+            "Staravia": "",
+            "Bibarel": "",
+            "Psyduck": "",
+            "Chingling": "",
+            "Noctowl": "Night"
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Lake Verity": {
+        "Ground": {
+            "Starly": "",
+            "Bidoof": ""
+        },
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Lost Tower (1F, 2F)": {
+        "Ground": {
+            "Gastly": "",
+            "Zubat": "",
+            "Murkrow": "Night"
+        }
+    },
+    "Lost Tower (3F, 4F, 5F)": {
+        "Ground": {
+            "Gastly": "",
+            "Zubat": "",
+            "Golbat": "",
+            "Murkrow": "Night"
+        }
+    },
+    "Maniac Tunnel": {
+        "Ground": {
+            "Geodude": "",
+            "Hippopotas": ""
+        }
+    },
+    "Mt. Coronet (North)": {
+        "Ground": {
+            "Meditite": "",
+            "Chingling": "",
+            "Geodude": "1F (1)",
+            "Machop": "1F (1)",
+            "Zubat": "1F (1)",
+            "Cleffa": "1F (1)",
+            "Graveler": "1F (2), B1F",
+            "Machoke": "1F (2), B1F",
+            "Golbat": "1F (2), B1F",
+            "Clefairy": "1F (2), B1F"
+        },
+        "Surf": {
+            "Zubat": "",
+            "Golbat": ""
+        },
+        "Old Rod": {
+            "Magikarp": "",
+            "Feebas": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": "",
+            "Feebas": ""
+        }
+    },
+    "Mt. Coronet (South)": {
+        "Ground": {
+            "Chingling": "",
+            "Geodude": "1F",
+            "Meditite": "1F",
+            "Machop": "1F",
+            "Zubat": "1F",
+            "Cleffa": "1F",
+            "Graveler": "2F, 3F",
+            "Medicham": "2F, 3F",
+            "Machoke": "2F, 3F",
+            "Golbat": "2F, 3F",
+            "Clefairy": "2F, 3F",
+            "Bronzor": "2F, 3F",
+            "Bronzong": "2F, 3F"
+        },
+        "Surf": {
+            "Zubat": "",
+            "Golbat": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Mt. Coronet (Summit)": {
+        "Ground": {
+            "Bronzong": "",
+            "Graveler": "",
+            "Machoke": "",
+            "Clefairy": "",
+            "Medicham": "",
+            "Golbat": "",
+            "Snover": "Outside",
+            "Abomasnow": "Outside",
+            "Noctowl": "Outside, Night",
+            "Chingling": "Outside, 4F, Tunnel",
+            "Chimecho": "5F, 6F"
+        },
+        "Surf": {
+            "Zubat": "",
+            "Golbat": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Old Chateau": {
+        "Ground": {
+            "Gastly": ""
+        }
+    },
+    "Oreburgh Gate (1F)": {
+        "Ground": {
+            "Zubat": "",
+            "Geodude": ""
+        }
+    },
+    "Oreburgh Gate (B1F)": {
+        "Ground": {
+            "Zubat": "",
+            "Geodude": "",
+            "Psyduck": ""
+        },
+        "Surf": {
+            "Zubat": "",
+            "Golbat": "",
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Oreburgh Mine": {
+        "Ground": {
+            "Zubat": "",
+            "Geodude": "",
+            "Onix": ""
+        }
+    },
+    "Pastoria City": {
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Remoraid": ""
+        }
+    },
+    "Ravaged Path": {
+        "Ground": {
+            "Zubat": "",
+            "Geodude": "",
+            "Psyduck": ""
+        },
+        "Surf": {
+            "Zubat": "",
+            "Golbat": "",
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Barboach": ""
+        }
+    },
+    "Solaceon Ruins": {
+        "Ground": {
+            "Unown": ""
+        }
+    },
+    "Spear Pillar": {
+        "Ground": {
+            "Dialga": ""
+        }
+    },
+    "Sunyshore City": {
+        "Surf": {
+            "Tentacruel": "",
+            "Pelipper": "",
+            "Mantyke": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Remoraid": ""
+        }
+    },
+    "Trophy Garden": {
+        "Ground": {
+            "Roselia": "",
+            "Staravia": "",
+            "Kricketune": "",
+            "Pichu": "",
+            "Pikachu": ""
+        }
+    },
+    "Twin Leaf City": {
+        "Surf": {
+            "Psyduck": "",
+            "Golduck": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Goldeen": ""
+        }
+    },
+    "Valley Windworks": {
+        "Ground": {
+            "Buizel": "",
+            "Bidoof": "",
+            "Shellos": "",
+            "Pachirisu": "",
+            "Drifloon": "Friday, in front of the building"
+        },
+        "Surf": {
+            "Tentacool": "",
+            "Tentacruel": "",
+            "Wingull": "",
+            "Pelipper": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": "",
+            "Finneon": ""
+        }
+    },
+    "Valor Cavern": {
+        "Ground": {
+            "Azelf": ""
+        }
+    },
+    "Valor Lakefront": {
+        "Ground": {
+            "Girafarig": "",
+            "Geodude": "",
+            "Bibarel": "",
+            "Staravia": "",
+            "Graveler": "",
+            "Kricketune": ""
+        }
+    },
+    "Verity Cavern": {
+        "Ground": {
+            "Mesprit": ""
+        }
+    },
+    "Victory Road": {
+        "Ground": {
+            "Machoke": "1F, B1F",
+            "Graveler": "1F, 2F",
+            "Medicham": "",
+            "Golbat": "",
+            "Onix": "1F, 2F",
+            "Steelix": "",
+            "Kadabra": "2F",
+            "Floatzel": "B1F"
+        },
+        "Surf": {
+            "Golbat": ""
+        },
+        "Old Rod": {
+            "Magikarp": ""
+        },
+        "Good Rod": {
+            "Magikarp": ""
+        }
+    },
+    "Wayward Cave": {
+        "Ground": {
+            "Geodude": "",
+            "Zubat": "",
+            "Bronzor": "",
+            "Gible": "B1F"
+        }
+    }
+}
