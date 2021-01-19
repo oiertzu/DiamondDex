@@ -60,7 +60,7 @@ python route.py
 It will output the information of the suggested trainer as well as which pokemon are still left to be seen.
 
 ## Notes
-There are some notes in [this file](NOTES.txt), it may as well work as a FAQ, who knows...
+There are some notes in [this file](NOTES.md), it may as well work as a FAQ, who knows...
 
 
 ## Contact

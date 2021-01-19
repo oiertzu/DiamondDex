@@ -1,7 +1,6 @@
 # Notes (or maybe FAQ)
 
 ## Ways of obtaining pokemon
-
 The following methods of obtaining pokemon are documented and used:
 + Evolution
 + Wild encounters
@@ -15,6 +14,7 @@ The following methods are documented but not used (due to the long time they req
 The following methods are not even documented:
 + Breeding
 + Whichever else I have forgotten exists hehe...
+
 
 ## What *depends.json* is
 There are some pokemon that you either see or not depending on your starter. Those are:
@@ -32,3 +32,11 @@ More pokemon I have added because I didn't want to add them in other places:
 ## Why choose Chimchar as starter?
 Choosing either Chimchar or Piplup will not change which pokemon you will necessarily see. If you choose Turtwig, you will have to take an extra battle to see Prinplup.
 
+
+## Any exception or interesting info?
++ Scrolling through the Professor's bag will not add the starters info to the dex.
++ The tutorial for catching pokemon does *not* add the assistant's starter to the dex. I haven't checked that for Bidoof.
++ Co-op fights register the pokemon of the trainer you team up with.
++ Psychic Abigail in Route 214 is set as a "must" trainer. It's either him or another battle in Route 212, and I believe fighting this guy is faster.
++ One of Galactic Grunt 30 or 31 is obligatory. Both have two pokemon and don't bring any news to the dex.
++ (Very nit-picky) Golbat only spawns at night in the tall grass in Mt. Coronet's summit. But, as it also spawns inside the cave, I don't want to insert misleading information.
