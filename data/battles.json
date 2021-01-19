@@ -1465,6 +1465,17 @@
         "mapx": 10800,
         "mapy": 7776
     },
+    "Swimmer Sheltin": {
+        "place": "Route 213",
+        "pokemon": [
+            "Gyarados",
+            "Gyarados",
+            "Gyarados"
+        ],
+        "must": false,
+        "mapx": 10687,
+        "mapy": 7877
+    },
     "Sailor Paul": {
         "place": "Route 213",
         "pokemon": [
@@ -3345,6 +3356,16 @@
         "mapx": 12268,
         "mapy": 6938
     },
+    "Policeman Thomas": {
+        "place": "Route 222",
+        "pokemon": [
+            "Noctowl",
+            "Machoke"
+        ],
+        "must": false,
+        "mapx": 12305,
+        "mapy": 6860
+    },
     "School Kid Tiera": {
         "place": "Sunyshore Gym",
         "pokemon": [
@@ -3545,6 +3566,16 @@
         "must": false,
         "mapx": 13115,
         "mapy": 5150
+    },
+    "Swimmer Francisco": {
+        "place": "Route 223",
+        "pokemon": [
+            "Tentacool",
+            "Golduck"
+        ],
+        "must": false,
+        "mapx": 13323,
+        "mapy": 5356
     },
     "Swimmer Troy": {
         "place": "Route 223",

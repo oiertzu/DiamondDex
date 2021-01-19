@@ -4,7 +4,7 @@
 ######################################   MODIFY THESE VALUES   ######################################
 
 
-see_wild = ['Buneary', 'Tentacool', 'Unown', 'Wooper', 'Uxie', 'Mesprit', 'Azelf', 'Palkia']
+see_wild = ['Buneary', 'Unown', 'Wooper', 'Uxie', 'Mesprit', 'Azelf', 'Palkia']
 
 chosen_trainers = [ 'Youngster Sebastian', # Machop
 					'Roughneck Kirby', # Cleffa
@@ -17,6 +17,7 @@ chosen_trainers = [ 'Youngster Sebastian', # Machop
 					'Rancher Marco', # Aipom & Psyduck
 					'Bug Catcher Donald', # Burmy & Wormadam
 					'Swimmer Miranda', # Lumineon
+					'Swimmer Francisco', # Tentacool
 					'School Kid Mackenzie', # Drifloon
 					'School Kid Chance', # Haunter
 					'Ace Trainer Ernest', # Mothim

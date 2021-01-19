@@ -636,18 +636,11 @@
             "Goldeen": ""
         }
     },
-    "Lost Tower (1F, 2F)": {
+    "Lost Tower": {
         "Ground": {
             "Gastly": "",
             "Zubat": "",
-            "Murkrow": "Night"
-        }
-    },
-    "Lost Tower (3F, 4F, 5F)": {
-        "Ground": {
-            "Gastly": "",
-            "Zubat": "",
-            "Golbat": "",
+            "Golbat": "3F, 4F, 5F",
             "Murkrow": "Night"
         }
     },
@@ -743,17 +736,11 @@
             "Gastly": ""
         }
     },
-    "Oreburgh Gate (1F)": {
-        "Ground": {
-            "Zubat": "",
-            "Geodude": ""
-        }
-    },
-    "Oreburgh Gate (B1F)": {
+    "Oreburgh Gate": {
         "Ground": {
             "Zubat": "",
             "Geodude": "",
-            "Psyduck": ""
+            "Psyduck": "B1F"
         },
         "Surf": {
             "Zubat": "",
